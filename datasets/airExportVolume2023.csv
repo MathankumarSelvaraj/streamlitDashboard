@@ -1,0 +1,1315 @@
+Shipment#,Sales,Operations,Carrier legalName,Carrier displayName,Nature of Goods,Commodity,isHouseholdGoods,isUsedGoods,isHazardous,isPerishable,isVehicle,Considerable Charging Unit,Origin Port,Origin State,Destination Port,Destination State,Destination country,Crea
+ASST230004,A7S Vito,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General,"KIT, ES-3000, Hardware",No,No,No,No,No,62,PHX,Arizona,DEL,Punjab,India,1/2/2023
+ASST230017,Lee Krish,A7S Gary,Air India,Air India / SFO *,General,"YARN
+Part no. 312 299 1/2 2.7Z 900D NEXTEL",No,No,No,No,No,738,IAH,Texas,AMD,Gujarat,India,1/3/2023
+ASST230018,Lee Krish,A7S Jason,Turkish Airlines,Turkish Airlines/JFK *,General,Machinery Parts ,No,No,No,No,No,188,ORD,Illinois,HYD,Andhra Pradesh,India,1/3/2023
+ASST230021,A7S Vito,A7S Ariel,Turkish Airlines,Turkish Airlines/JFK *,General,Inkjet Printer,No,No,No,No,No,43,IAH,Texas,CAI,Cairo,Egypt,1/3/2023
+ASST230024,A7S Vito,A7S Ariel,Ethiopian airlines,Ethiopian airlines,General,Essential Oils ,No,No,No,No,No,1814,JFK,New York,DXB,Al Garhoud,United Arab Emirates,1/3/2023
+ASST230027,A7S Vito,A7S Bryan,Mercury Air Cargo,Mercury Air Cargo,General,Essential Oils ,No,No,No,No,No,365,MCO,Florida,DXB,Al Garhoud,United Arab Emirates,1/3/2023
+ASST230037,Nash H.,A7S Ariel,GULF AIR,GULF AIR / JFK *,General,Cartridge Filter,No,No,No,No,No,165,IAH,Texas,BAH,,Bahrain,1/3/2023
+ASST230038,A7S Vito,A7S Gary,Turkish Airlines,Turkish Airlines/JFK *,General,Parts for Boring / Drilling Machy,No,No,No,No,No,351,ORD,Illinois,MCT,Muscat,Oman,1/3/2023
+ASST230041,Nash H.,A7S Ariel,Turkish Airlines,Turkish Airlines/JFK *,General,"Cucumber Seeds and Pepper Seeds
+
+",No,No,No,No,No,1306.65,SFO,California,BEY,Beirut,Lebanon,1/3/2023
+ASST230045,Nash H.,A7S Ariel,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,"Audio Frequency Electric Amplifiers, Others",No,No,No,No,No,338,ORD,Illinois,KUL,Selangor,Malaysia,1/3/2023
+ASST230051,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines/JFK *,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,816,MIA,Florida,BEY,Beirut,Lebanon,1/4/2023
+ASST230052,Shaun S.,A7S Ariel,Air Canada Cargo,Air Canada Cargo/SFO *,General,Seal Door,No,No,No,No,No,5.36,ORD,Illinois,BOM,Maharashtra,India,1/4/2023
+ASST230059,Lee Krish,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,General,"11"" (279.4) mm Wide SS / PBO / Kevlar Blended Belt-WG Treated",No,No,No,No,No,45,IAD,District of Columbia,BOM,Maharashtra,India,1/4/2023
+ASST230060,Lee Krish,A7S Bryan,Finnair Cargo,Finnair Cargo / LAX *,General,"Diagnostics Ultrasound VOLUSON E10
+mfg.",No,No,No,No,No,451,DFW,Texas,VNO,Vilnius,Lithuania,1/4/2023
+ASST230062,Lee Krish,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"EasyView wide-range light meter
+NSF Waterproof Food Thermometer W/Stainless Probe
+Thermometer, Big Digit Indoor/Outdoor
+Waterproof Timer with Jumbo Display",No,No,No,No,No,15.78,SFO,California,CMB,Western Province,Sri Lanka,1/4/2023
+ASST230063,Lee Krish,A7S Gary,Etihad Airways,Etihad Airways / LAX *,General,"Fisher 1/2"" Pressure Regulator Type MR95H
+
+",No,No,No,No,No,5,ORD,Illinois,KHI,Sindh,Pakistan,1/4/2023
+ASST230073,Nash H.,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,3082,JFK,New York,JED,Mecca,Saudi Arabia,1/4/2023
+ASST230077,A7S Vito,A7S Sky,Air Canada Cargo,Air Canada Cargo/SFO *,General,Flushing fluid drum hydrocarbon - Not DG,No,No,No,No,No,212,PIT,Pennsylvania,MEX,Mexico,Mexico,1/4/2023
+ASST230078,A7S Vito,A7S Bryan,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,Air disc assembly,No,No,No,No,No,87,CLE,Ohio,PVG,Shanghai Municipality,China,1/4/2023
+ASST230080,Nash H.,A7S Sky,Turkish Airlines,Turkish Airlines/JFK *,General,Pump,No,No,No,No,No,131,IAH,Texas,KUL,Selangor,Malaysia,1/5/2023
+ASST230081,Nash H.,A7S Sky,Turkish Airlines,Turkish Airlines/JFK *,General,Unified ring,No,No,No,No,No,48.91,IAH,Texas,PVG,Shanghai Municipality,China,1/5/2023
+ASST230082,Nash H.,A7S Gary,Qatar Airways,Qatar Airways / LAX *,General,"Level Control -Eclipse Transmitter ,Level Control -Enhanced TA2 Transmitter & Switch",No,No,No,No,No,447,ORD,Illinois,DEL,Punjab,India,1/5/2023
+ASST230088,Lee Krish,A7S Sky,All Nippon Airways ,All Nippon Airways/LAX *,General,INSTRUMENTS ,No,No,No,No,No,225.75,SFO,California,BKK,Bangkok,Thailand,1/5/2023
+ASST230089,Lee Krish,A7S Gary,Air India,Air India / SFO *,General,Cof 5Lb Espresso,No,No,No,No,No,744,SFO,California,BOM,Maharashtra,India,1/5/2023
+ASST230090,Lee Krish,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,General,Spare Parts.,No,No,No,No,No,32,ORD,Illinois,DEL,Punjab,India,1/5/2023
+ASST230091,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines/JFK *,General,"VIA ICG Courier Material,
+Assorted gift samples",No,No,No,No,No,263,ATL,Georgia,KHI,Sindh,Pakistan,1/5/2023
+ASST230093,Shaun S.,A7S Ariel,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Cookies - +18c condition  (Non-stackable) ,No,No,No,No,No,315,ATL,Georgia,DXB,Al Garhoud,United Arab Emirates,1/5/2023
+ASST230094,Lee Krish,A7S Gary,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,"486-510: Bolx I/Super-Flex (Skin)
+928-200: Lead Testicle Shield (Small) 
+928-250: Lead Testicle Shield (Medium)
+928-300: Lead Testicle Shield (Large)
+",No,No,No,No,No,300,ORD,Illinois,BLR,Karnataka,India,1/5/2023
+ASST230100,Nash H.,A7S Gary,Turkish Airlines,Turkish Airlines/JFK *,General,"MODULE,STAND-BY ROUTER
+",No,No,No,No,No,267,ORD,Illinois,DOH,Doha,Qatar,1/5/2023
+ASST230101,A7S Vito,A7S Jason,Virgin Atlantic Cargo,Virgin Atlantic Cargo / ORD *,General,Machine Parts,No,No,No,No,No,193,LAX,California,LOS,Anambra,Nigeria,1/5/2023
+ASST230102,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,"Corrosive Liquid, Acidic,
+Organic, N.o.s, (Lactic Acid)",No,No,Yes,No,No,72,ORD,Illinois,MAA,Tamil Nadu,India,1/5/2023
+ASST230103,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines/JFK *,General,Softspeed Kit,No,No,No,No,No,224.18,IAH,Texas,MCT,Muscat,Oman,1/5/2023
+ASST230105,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,680.27,LAX,California,SGN,Thái Bình,Vietnam,1/5/2023
+ASST230106,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury Air Cargo,General,Essential Oils ,No,No,No,No,No,2324,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/5/2023
+ASST230113,Lee Krish,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Machinery Parts ,No,No,No,No,No,227,IAH,Texas,DMM,Dammam,Saudi Arabia,1/6/2023
+ASST230114,Lee Krish,A7S Jason,UPS Air Cargo,UPS Air Cargo,General,Stainless Steel Sheet,No,No,No,No,No,286,CVG,Kentucky,BLR,Karnataka,India,1/6/2023
+ASST230115,Lee Krish,A7S Jason,Air India,Air India / SFO *,General,Ring Jewellery Box With Insert,No,No,No,No,No,479,JFK,New York,BOM,Maharashtra,India,1/6/2023
+ASST230119,Lee Krish,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,Other,"Lab reagent 
+Temp : +2 to +8 
+( 1 box containing 14Kg dry ice )",No,No,No,Yes,No,19,ORD,Illinois,DOH,Doha,Qatar,1/6/2023
+ASST230122,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,GIFTS,No,No,No,No,No,680.27,IAD,District of Columbia,SGN,Thái Bình,Vietnam,1/6/2023
+ASST230126,A7S Vito,A7S Bryan,British Airways,British Airways/SFO *,General,Fuel Economizer Parts,No,No,No,No,No,549,JFK,New York,MAA,Tamil Nadu,India,1/6/2023
+ASST230127,A7S Vito,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Fuel Economizer Parts
+
+",No,No,No,No,No,182,JFK,New York,MAA,Tamil Nadu,India,1/6/2023
+ASST230128,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,42,LAX,California,MNL,Metro Manila,Philippines,1/6/2023
+ASST230129,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,Televisions,No,No,No,No,No,144,IAD,District of Columbia,DAR,Dar es Salaam,Tanzania,1/6/2023
+ASST230134,Nash H.,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,3473,JFK,New York,JED,Mecca,Saudi Arabia,1/6/2023
+ASST230146,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,2589,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,1/6/2023
+ASST230153,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,General,Crystal Bio Equipment,No,No,No,No,No,15,DEN,Colorado,BLR,Karnataka,India,1/9/2023
+ASST230154,Shaun S.,A7S Ariel,Singapore Airlines Cargo,Singapore Airlines Cargo / SFO *,General, Broadcast equipment,No,No,No,No,No,1207.66,DFW,Texas,MNL,Metro Manila,Philippines,1/9/2023
+ASST230155,Lee Krish,A7S Bryan,Finnair Cargo,Finnair Cargo / LAX *,General,Ultrasonic Medical Equiment,No,No,No,No,No,104,JFK,New York,VNO,Vilnius,Lithuania,1/9/2023
+ASST230156,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,PIZZA LOADER,No,No,No,No,No,100,SFO,California,BLR,Karnataka,India,1/9/2023
+ASST230158,Lee Krish,A7S Sky,Air India,Air India / SFO *,General,"Essentials Of Personal Training Cpt - Seventh Edition
+",No,No,No,No,No,100,ORD,Illinois,MAA,Tamil Nadu,India,1/9/2023
+ASST230160,Lee Krish,A7S Gary,Air India,Air India / SFO *,General, PTFE Tube,No,No,No,No,No,112,JFK,New York,BLR,Karnataka,India,1/9/2023
+ASST230162,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury Air Cargo,General,Essential Oils,No,No,No,No,No,2966,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/9/2023
+ASST230168,Shaun S.,A7S Sky,Air India,Air India / SFO *,General,WHITE NICKEL FREE ALLOY,No,No,No,No,No,151,EWR,New Jersey,BOM,Maharashtra,India,1/9/2023
+ASST230170,Nash H.,A7S Sky,British Airways,British Airways/SFO *,General,Media storage tape,No,No,No,No,No,122,DEN,Colorado,BLR,Karnataka,India,1/9/2023
+ASST230173,A7S Vito,A7S Bryan,UPS Air Cargo,UPS Air Cargo,General,Nickel Alloy,No,No,No,No,No,436,CVG,Kentucky,BLR,Karnataka,India,1/9/2023
+ASST230175,Mont I.,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,General,Construction Test Equipment,No,No,No,No,No,101,ORD,Illinois,CDG,Île-de-France,France,1/9/2023
+ASST230190,Lee Krish,A7S Gary,Swiss world cargo,Swiss world cargo / JFK *,General,"Apple Cider Vinegar Gummies
+Confectionary
+
+Ashwagandha Gummies
+Confectionary",No,No,No,No,No,766,LAX,California,MRU,Port Louis District,Mauritius,1/10/2023
+ASST230192,Lee Krish,A7S Sky,Air India,Air India / SFO *,General, Metal Bed,No,No,No,No,No,119.01,SFO,California,DEL,Punjab,India,1/10/2023
+ASST230193,Lee Krish,A7S Jason,Air India,Air India / SFO *,General,"medical tape/supplies
+",No,No,No,No,No,100,ORD,Illinois,HYD,Andhra Pradesh,India,1/10/2023
+ASST230194,Lee Krish,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Ground Turbine Components,No,No,No,No,No,280,BOS,Massachusetts,DMM,Dammam,Saudi Arabia,1/10/2023
+ASST230195,Mont I.,A7S Jason,Cargolux,Cargolux/SFO *,Other,"Clear Mist Nasal Drops  "" None Hazardous"" Squeezable bottle"" 
+Temp :Below 20 Degree (Data Logger will be provided by Supplier",No,No,No,Yes,No,2908,JFK,New York,RUH,Riyadh,Saudi Arabia,1/10/2023
+ASST230196,Lee Krish,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,Other,"Lab Re-Agent
+1 box containing 25 kg dry ice",No,No,No,Yes,No,31,SFO,California,DOH,Doha,Qatar,1/10/2023
+ASST230197,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,"Special device (it makes water from air humidity) contains 11,8 gr R134 A Gas",No,No,Yes,No,No,109,SFO,California,IST,Adana,Turkey,1/10/2023
+ASST230203,A7S Vito,A7S Bryan,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Kitchen Equipment,No,No,No,No,No,472,DFW,Texas,JED,Mecca,Saudi Arabia,1/10/2023
+ASST230209,Shaun S.,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Nutrition supplements - non stackable,No,No,No,No,No,558,ATL,Georgia,DXB,Al Garhoud,United Arab Emirates,1/10/2023
+ASST230210,A7S Vito,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,Handbags,No,No,No,No,No,127,JFK,New York,EBB,Wakiso,Uganda,1/10/2023
+ASST230216,Nash H.,A7S Ariel,GULF AIR,GULF AIR / JFK *,General,FIBERGLASS DOME REFLECTOR,No,No,No,No,No,875.13,ORD,Illinois,BAH,,Bahrain,1/10/2023
+ASST230218,Nash H.,A7S Sky,British Airways,British Airways/SFO *,General,Tubless Tires,No,No,No,No,No,100,MIA,Florida,MLE,Malé,Maldives,1/10/2023
+ASST230223,Shaun S.,A7S Sky,Pakistan International Airlines,Pakistan International Airlines,General,HYD Pump/Ram Set 1-Stage & PWD Grease Pump,No,No,No,No,No,137,ORD,Illinois,DMM,Dammam,Saudi Arabia,1/11/2023
+ASST230228,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,"Stainless Steel Liquid LF441­200­4L ­Filled
+Gauge, 4"" Dial, Bronze Internals,
+
+Gauge cock brass LC­14 1/4"" dia. fnpt
+connection",No,No,No,No,No,241,DTW,Michigan,DOH,Doha,Qatar,1/11/2023
+ASST230229,Shaun S.,A7S Sky,Royal Jordanian,Royal Jordanian / JFK,General,General cargo,No,No,No,No,No,104,JFK,New York,AMM,Amman,Jordan,1/11/2023
+ASST230230,Lee Krish,A7S Gary,British Airways,British Airways/SFO *,General, Medical Tools And Equipment (Not Restricted) ,No,No,No,No,No,6680,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/11/2023
+ASST230231,Mont I.,A7S Jason,British Airways,British Airways/SFO *,Other,"Aerosol produc
+
+10 To 12 bottles ",No,No,Yes,No,No,6,JFK,New York,BOM,Maharashtra,India,1/11/2023
+ASST230232,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,FILTER ELEMENTS,No,No,No,No,No,45,ATL,Georgia,KHI,Sindh,Pakistan,1/11/2023
+ASST230237,A7S Vito,A7S Sky,China Airlines Cargo,China Airlines Cargo / SFO *,Other,Powerlife Enerbex Zinc Complex 60 Tabs,No,No,No,No,No,806,MIA,Florida,KUL,Selangor,Malaysia,1/11/2023
+ASST230239,Naomi Makoha,A7S Jason,Ethiopian airlines,Ethiopian airlines,Other,"Machine parts - 
+1 pallet 48x40x40 276lbs
+1 box 18x10x10 53lbs
+1 box 12x12x22 8lbs
+Total 337lbs  
+",No,No,No,No,No,163,SEA,Washington,FBM,Katanga,Democratic Republic of Congo,1/11/2023
+ASST230245,A7S Vito,A7S Ariel,Mercury Air Cargo,Mercury Air Cargo,General,Essential Oils ,No,No,No,No,No,2189,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/11/2023
+ASST230251,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,D Optical Surface Profiler Kit,No,No,No,No,No,28,LAX,California,BLR,Karnataka,India,1/12/2023
+ASST230256,Lee Krish,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,Spare parts materials,No,No,No,No,No,141,IAD,District of Columbia,BOM,Maharashtra,India,1/12/2023
+ASST230258,Lee Krish,A7S Jason,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,"250 DEGREE ADHESIVE FILM.
+3M AF 163-2K .06 36'' Wide
+Certified to: BMS 5-101 TY2 GR10
+BMS 5-129 TY4 CL 2D GR10
+299-947-320 TY1
+SS8612, REV. 14, TY IV, CL 2, -006F
+OR -020F
+3M Standard",No,No,No,No,No,54,SEA,Washington,HYD,Andhra Pradesh,India,1/12/2023
+ASST230259,Lee Krish,A7S Gary,British Airways,British Airways/SFO *,General,Machinery Parts ,No,No,No,No,No,723,PHL,Pennsylvania,BLR,Karnataka,India,1/12/2023
+ASST230261,Lee Krish,A7S Gary,British Airways,British Airways/SFO *,General,Machinery Spare Parts ,No,No,No,No,No,375.82,JFK,New York,BOM,Maharashtra,India,1/12/2023
+ASST230264,Lee Krish,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Bronzen Diameter Hollow ,No,No,No,No,No,338,IAH,Texas,BOM,Maharashtra,India,1/12/2023
+ASST230267,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,204,LAX,California,MNL,Metro Manila,Philippines,1/12/2023
+ASST230268,A7S Vito,A7S Sky,Air India,Air India / SFO *,General,Extrusion,No,No,No,No,No,130,MIA,Florida,BLR,Karnataka,India,1/12/2023
+ASST230270,A7S Vito,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General, Double Ram Bop Spare,No,No,No,No,No,891,IAH,Texas,BOM,Maharashtra,India,1/12/2023
+ASST230277,Luz Atienza,Luz Atienza,Qatar Airways,Qatar Airways / LAX *,General,Irrigation equipment,No,No,No,No,No,1038,SFO,California,RUH,Riyadh,Saudi Arabia,1/12/2023
+ASST230280,Luz Atienza,Luz Atienza,Qatar Airways,Qatar Airways / LAX *,General,Irrigation equipment,No,No,No,No,No,218,SFO,California,DXB,Al Garhoud,United Arab Emirates,1/12/2023
+ASST230289,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,Other,USED SLIMMING DEVICE,No,No,No,No,No,206.48,CLT,North Carolina,DXB,Al Garhoud,United Arab Emirates,1/13/2023
+ASST230292,Shaun S.,A7S Ariel,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,General Cargo,No,No,No,No,No,219,CVG,Kentucky,BLR,Karnataka,India,1/13/2023
+ASST230294,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,Integrated Kyoocer w/Controller PCB,No,No,No,No,No,140,IAH,Texas,HYD,Andhra Pradesh,India,1/13/2023
+ASST230296,A7S Vito,A7S Bryan,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Pump Parts,No,No,No,No,No,1705,LAX,California,CCU,West Bengal,India,1/13/2023
+ASST230297,Nash H.,A7S BookingDeskAE1,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,"Clindamycin Hydrochloride USP (Pharmaceuticals Non-Haz)
+",No,No,No,No,No,707.92,ATL,Georgia,BOM,Maharashtra,India,1/13/2023
+ASST230298,Nash H.,A7S BookingDeskAE1,Turkish Airlines,Turkish Airlines / JFK*,General,Varnish,No,No,Yes,No,No,739,JFK,New York,BLR,Karnataka,India,1/13/2023
+ASST230302,Nash H.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,crane spare parts,No,No,No,No,No,64,IAH,Texas,KUL,Selangor,Malaysia,1/13/2023
+ASST230304,Lee Krish,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"Treasures, Wooden frame, ",No,No,No,No,No,257,ORD,Illinois,VNO,Vilnius,Lithuania,1/13/2023
+ASST230312,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 03pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,710,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/13/2023
+ASST230313,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 09pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,998,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/13/2023
+ASST230314,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 02pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,806,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/13/2023
+ASST230315,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,910,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/13/2023
+ASST230316,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1125.59,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/13/2023
+ASST230320,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,General,Automotive parts,No,No,No,No,No,1249,SFO,California,KWI,Farwaniya,Kuwait,1/14/2023
+ASST230332,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,703,MIA,Florida,BEY,Beirut,Lebanon,1/16/2023
+ASST230344,Lee Krish,A7S Bryan,American Airlines Cargo,American Airlines Cargo/ORD *,General,Spare Parts ,No,No,No,No,No,115,ORD,Illinois,DOH,Doha,Qatar,1/16/2023
+ASST230345,Lee Krish,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,"Slef Adhesive Sheets
+Non Woen",No,No,No,No,No,241,ATL,Georgia,HYD,Andhra Pradesh,India,1/16/2023
+ASST230363,Nash H.,A7S Ariel,British Airways,British Airways/SFO *,General,Spare Parts,No,No,No,No,No,1087,LAX,California,DOH,Doha,Qatar,1/16/2023
+ASST230365,Nash H.,A7S Ariel,British Airways,British Airways/SFO *,General,Spare Parts ,No,No,No,No,No,348,ORD,Illinois,DOH,Doha,Qatar,1/16/2023
+ASST230367,Lee Krish,A7S Bryan,Mercury World Cargo,Mercury World Cargo,General,"Flavour,",No,No,No,No,No,5577,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/16/2023
+ASST230384,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,SAFETY BELT,No,No,No,No,No,60.57,SFO,California,KHI,Sindh,Pakistan,1/17/2023
+ASST230406,Shaun S.,A7S Rama,UPS Air Cargo,UPS Air Cargo,General,"Ceramic Crucibles
+Non - Stackable",No,No,No,No,No,624,ORD,Illinois,BLR,Karnataka,India,1/18/2023
+ASST230409,Shaun S.,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,400,LAX,California,HYD,Andhra Pradesh,India,1/18/2023
+ASST230410,Lee Krish,A7S Rama,Finnair Cargo,Finnair Cargo / LAX *,General,EURO TRACC PARTS,No,No,No,No,No,190,IAH,Texas,VNO,Vilnius,Lithuania,1/18/2023
+ASST230411,Lee Krish,A7S Rama,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Adhesion Barrier Gel,No,No,No,Yes,No,9,LAX,California,RUH,Riyadh,Saudi Arabia,1/18/2023
+ASST230413,Shaun S.,A7S Sky,Qatar Airways,Qatar Airways / LAX *,General,"Sodium Phosphates Inj - TEMP REQD +15 to +25 Deg C
+",No,No,No,Yes,No,4.89,PHL,Pennsylvania,BLR,Karnataka,India,1/18/2023
+ASST230414,Shaun S.,A7S Sky,Etihad Airways,Etihad Airways / LAX *,General,"Calcitonin Salmon Usp Injection
+",No,No,No,Yes,No,126,JFK,New York,BLR,Karnataka,India,1/18/2023
+ASST230415,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"Medical Equipment
+(Lithium-ion batteries in compliance with
+Section II of PI 2967) (UN3481)",No,No,No,No,No,100,BOS,Massachusetts,BOM,Maharashtra,India,1/18/2023
+ASST230417,Shaun S.,A7S Ariel,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Laboratory items,No,No,No,No,No,379,BOS,Massachusetts,DXB,Al Garhoud,United Arab Emirates,1/18/2023
+ASST230419,A7S Vito,A7S Sky,Ethiopian airlines,Ethiopian airlines,General,Shoes,No,No,No,No,No,834,ORD,Illinois,KGL,Kigali City,Rwanda,1/18/2023
+ASST230425,Ann K.,A7S Sky,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Animal feed,No,No,No,No,No,5646,ORD,Illinois,DXB,Al Garhoud,United Arab Emirates,1/18/2023
+ASST230429,A7S Vito,A7S Bryan,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils ,No,No,No,No,No,3439,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/18/2023
+ASST230433,Nash H.,A7S Moe,British Airways,British Airways/SFO *,General,Sunglasses,No,No,No,No,No,45,PHX,Arizona,MLE,Malé,Maldives,1/18/2023
+ASST230439,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils,No,No,No,No,No,3168,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/18/2023
+ASST230455,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,ALLOY BAR,No,No,No,No,No,371,IAH,Texas,BOM,Maharashtra,India,1/19/2023
+ASST230456,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Dangerous Goods,Paint,No,No,Yes,No,No,12,LAX,California,BLR,Karnataka,India,1/19/2023
+ASST230459,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,PIZZA LOADER,No,No,No,No,No,115,SFO,California,BLR,Karnataka,India,1/19/2023
+ASST230461,Nash H.,A7S Sky,British Airways,British Airways/SFO *,Other,E-Liquids,No,No,No,No,No,1365,LAX,California,BAH,,Bahrain,1/19/2023
+ASST230464,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Oilfield Instrument Equipment ,No,No,No,No,No,50,IAH,Texas,BOM,Maharashtra,India,1/19/2023
+ASST230465,Luz Atienza,Luz Atienza,Turkish Airlines,Turkish Airlines / JFK*,Other,"Bag, shoes, t-shirt & etc
+HTS# 4202.19.0000 ",No,No,No,No,No,219,SFO,California,KUL,Selangor,Malaysia,1/19/2023
+ASST230469,Nash H.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Audio Video Cable,No,No,No,No,No,219.21,MIA,Florida,KUL,Selangor,Malaysia,1/19/2023
+ASST230475,Lee Krish,A7S Rama,Qatar Airways,Qatar Airways / LAX *,General,COPPER ELECTRICAL WIRE,No,No,No,No,No,869,JFK,New York,MAA,Tamil Nadu,India,1/20/2023
+ASST230483,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,184,LAX,California,MNL,Metro Manila,Philippines,1/20/2023
+ASST230490,Nash H.,A7S Sky,GULF AIR,GULF AIR / JFK *,Other,E-Liquids,No,No,No,No,No,877,LAX,California,BAH,,Bahrain,1/20/2023
+ASST230492,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils ,No,No,No,No,No,2744,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/20/2023
+ASST230497,Mont I.,A7S Jason,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,General cargo,No,No,No,No,No,240,IAH,Texas,CAI,Cairo,Egypt,1/20/2023
+ASST230523,Mont I.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,Other,"UN1210, Printing ink
+UN1210, Printing ink related material ",No,No,Yes,No,No,661,JFK,New York,JED,Mecca,Saudi Arabia,1/23/2023
+ASST230524,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Diagnostic Reagents,No,No,No,No,No,500,SAN,California,DEL,Punjab,India,1/23/2023
+ASST230525,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,"Jamesbury 10"" K815W
+Cryogenic B'Fly Valve Assm--
+SS Tag: HV3441",No,No,No,No,No,313,BOS,Massachusetts,BOM,Maharashtra,India,1/23/2023
+ASST230526,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,680.27,LAX,California,SGN,Thái Bình,Vietnam,1/23/2023
+ASST230527,Lee Krish,A7S Rama,Virgin Atlantic Cargo,Virgin Atlantic Cargo / ORD *,General,Wool & Cotton,No,No,No,No,No,146,ATL,Georgia,LHE,Punjab,Pakistan,1/23/2023
+ASST230533,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,"Metal, Stainless steel round bar",No,No,No,No,No,339,LAX,California,HYD,Andhra Pradesh,India,1/23/2023
+ASST230536,A7S Vito,A7S Jason,Qatar Airways,Qatar Airways / LAX *,General,Camera Crane Accessories ,No,No,No,No,No,373,LAX,California,MAA,Tamil Nadu,India,1/23/2023
+ASST230538,A7S Vito,A7S Ariel,British Airways,British Airways/SFO *,General,Lanyards,No,No,No,No,No,355.6,MSP,Minnesota,DOH,Doha,Qatar,1/23/2023
+ASST230539,Nash H.,A7S Moe,British Airways,British Airways/SFO *,Other,Flip Flops,No,No,No,No,No,261,LAX,California,MLE,Malé,Maldives,1/23/2023
+ASST230542,A7S Vito,A7S Ariel,Royal Jordanian,Royal Jordanian / JFK,General,Drilling parts,No,No,No,No,No,113,IAH,Texas,CAI,Cairo,Egypt,1/23/2023
+ASST230562,Shaun S.,A7S Ariel,Etihad Airways,Etihad Airways / LAX *,General,MATTRESS ,No,No,No,No,No,28.67,JFK,New York,BLR,Karnataka,India,1/24/2023
+ASST230563,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,Mechanical Parts,No,No,No,No,No,287,EWR,New Jersey,BOM,Maharashtra,India,1/24/2023
+ASST230567,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Insert, Flexer Blade",No,No,No,No,No,100,CLE,Ohio,BOM,Maharashtra,India,1/24/2023
+ASST230568,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,PIZZA LOADER,No,No,No,No,No,85,SFO,California,BLR,Karnataka,India,1/24/2023
+ASST230570,Lee Krish,A7S Rama,GULF AIR,GULF AIR / JFK *,General,"Impeller,Shaft,Wear Pad,Sleeve,Gasket,O-Ring,Bearing, Inboard MCM",No,No,No,No,No,208,IAH,Texas,DMM,Dammam,Saudi Arabia,1/24/2023
+ASST230573,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,Other,Spare Parts ,No,No,No,No,No,1,JFK,New York,BOM,Maharashtra,India,1/24/2023
+ASST230574,Lee Krish,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,FASTENER SCREWS,No,No,No,No,No,102,DFW,Texas,BOM,Maharashtra,India,1/24/2023
+ASST230579,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils ,No,No,No,No,No,1973,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/24/2023
+ASST230583,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,"HE-100 Heat Transfer Fluid (Ethylene Glycol, 100%)",No,No,No,No,No,103,SFO,California,MLA,Southern Region,Malta,1/24/2023
+ASST230585,Nash H.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,"Cucumber Seeds
+
+",No,No,No,No,No,718.41,SFO,California,BEY,Beirut,Lebanon,1/24/2023
+ASST230586,Nash H.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Rubber products.,No,No,No,No,No,187,DFW,Texas,SGN,Thái Bình,Vietnam,1/24/2023
+ASST230590,Mont I.,A7S Jason,DHL Aviation Americas,DHL Aviation Americas / SFO *,Other,Start Pac Model Li2800QC,No,No,Yes,No,No,150,ORD,Illinois,NBO,Nairobi,Kenya,1/24/2023
+ASST230591,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,Phones contains LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967 / UN3481,No,No,No,No,No,848,MIA,Florida,DXB,Al Garhoud,United Arab Emirates,1/24/2023
+ASST230592,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,Glove latext diam GRPS ,No,No,No,No,No,685,ORD,Illinois,BLR,Karnataka,India,1/25/2023
+ASST230596,Shaun S.,A7S Sky,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Electronic Items without Batteries,No,No,No,No,No,472,JFK,New York,ROB,Margibi,Liberia,1/25/2023
+ASST230598,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,Engine Fan Blades,No,No,No,No,No,199,ORD,Illinois,DEL,Punjab,India,1/25/2023
+ASST230604,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,HDMI Extenders,No,No,No,No,No,35,LAX,California,BLR,Karnataka,India,1/25/2023
+ASST230605,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"MEDICAL EQUIPMENT [DEMO UNIT]
+
+",No,No,No,No,No,45,SFO,California,KHI,Sindh,Pakistan,1/25/2023
+ASST230606,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,Welding electrode & filler wire,No,No,No,No,No,1179,CLT,North Carolina,BOM,Maharashtra,India,1/25/2023
+ASST230607,A7S Vito,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptop Lithium metal batteries  (UN3091 Packing Instruction 970, Section II )",No,No,No,No,No,1284,DFW,Texas,CAI,Cairo,Egypt,1/25/2023
+ASST230608,Nash H.,A7S Ariel,British Airways,British Airways/SFO *,General,Color: Black Flute,No,No,No,No,No,298,MIA,Florida,MLE,Malé,Maldives,1/25/2023
+ASST230614,Mont I.,A7S Jason,Qatar Airways,Qatar Airways / LAX *,Other,"Batteries, Wet, Non-spillable
+
+UN2800 *Lead-Acid Battery Non-spillable / Non-hazmat as per spl provision A67",No,No,No,No,No,242,DFW,Texas,MCT,Muscat,Oman,1/25/2023
+ASST230615,A7S Vito,A7S Bryan,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils ,No,No,No,No,No,1278,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/25/2023
+ASST230620,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Control Or Controller Parts,No,No,No,No,No,72,IAH,Texas,CAI,Cairo,Egypt,1/25/2023
+ASST230623,Mont I.,A7S Jason,Qatar Airways,Qatar Airways / LAX *,General,"Medical devices
+",No,No,No,No,No,802,SEA,Washington,RUH,Riyadh,Saudi Arabia,1/25/2023
+ASST230627,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,JUUL - Batteries UN3481 LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967,No,No,No,No,No,131.1,DFW,Texas,DXB,Al Garhoud,United Arab Emirates,1/25/2023
+ASST230628,Nash H.,A7S Ariel,British Airways,British Airways/SFO *,General,Micron filter and Powdered filter,No,No,No,No,No,150,SLC,Utah,BAH,,Bahrain,1/25/2023
+ASST230647,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,"Jamesbury 10"" K815W
+Cryogenic B'Fly Valve Assm",No,No,No,No,No,313,BOS,Massachusetts,MAA,Tamil Nadu,India,1/26/2023
+ASST230648,A7S Vito,A7S Bryan,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Industrial Electric Tools,No,No,No,No,No,143,JFK,New York,BOM,Maharashtra,India,1/26/2023
+ASST230650,A7S Vito,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Delta Charger,No,No,No,No,No,126,ATL,Georgia,ICN,Jung-gu,South Korea,1/26/2023
+ASST230654,Lee Krish,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Trekking Equipment, and water sports Cloths",No,No,No,No,No,768,SEA,Washington,DEL,Punjab,India,1/26/2023
+ASST230655,Lee Krish,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"ELECTRIC KILNS, SLAB KIT FOR KILNS",No,No,No,No,No,541,SFO,California,BEY,Beirut,Lebanon,1/26/2023
+ASST230656,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Paint,No,No,Yes,No,No,10,PHX,Arizona,HYD,Andhra Pradesh,India,1/26/2023
+ASST230659,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,164,LAX,California,MNL,Metro Manila,Philippines,1/26/2023
+ASST230660,A7S Vito,A7S Jason,Kuwait Airways,Kuwait Airways,Other,General Foodstuff,No,No,No,No,No,2047,PIT,Pennsylvania,KWI,Farwaniya,Kuwait,1/26/2023
+ASST230665,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,Spare part.,No,No,No,No,No,264,MSP,Minnesota,LOS,Anambra,Nigeria,1/27/2023
+ASST230668,Lee Krish,A7S Jason,Virgin Atlantic Cargo,Virgin Atlantic Cargo / ORD *,General,General cargo / Stackable.,No,No,No,No,No,448,MIA,Florida,BOM,Maharashtra,India,1/27/2023
+ASST230670,Nash H.,A7S BookingDeskAE1,Turkish Airlines,Turkish Airlines / JFK*,General,Wheel Mounting Compound,No,No,No,No,No,130,ORD,Illinois,DEL,Punjab,India,1/27/2023
+ASST230672,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Graphitar Grade,No,No,No,No,No,75,IAH,Texas,BOM,Maharashtra,India,1/27/2023
+ASST230674,Lee Krish,A7S Jason,Etihad Airways,Etihad Airways / LAX *,General,Sound Signaling Apparatus ,No,No,No,No,No,2,PHL,Pennsylvania,BLR,Karnataka,India,1/27/2023
+ASST230676,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,Other,General ,No,No,No,No,No,2901,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/27/2023
+ASST230678,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,hydraguide unit ,No,No,No,No,No,138,ORD,Illinois,VNO,Vilnius,Lithuania,1/27/2023
+ASST230680,Lee Krish,A7S Bryan,Air India,Air India / SFO *,General,Spare Parts ,No,No,No,No,No,304,EWR,New Jersey,DEL,Punjab,India,1/27/2023
+ASST230683,Nash H.,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Electrical Equipment and Material N.O.S.,No,No,No,No,No,3988,IAD,District of Columbia,DMM,Dammam,Saudi Arabia,1/27/2023
+ASST230684,A7S Vito,A7S Sky,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,LINER IDECO T-800/1000 (0230-70-P),No,No,No,No,No,512,IAH,Texas,TUN,Carthage,Tunisia,1/27/2023
+ASST230688,Tracy Khuu,Luz Atienza,Vietnam Airlines,Vietnam Airlines *,General,"IC Chips over Gigabit
+HS code: 8542.32.0036 ",No,No,No,No,No,261,SFO,California,SGN,Thái Bình,Vietnam,1/27/2023
+ASST230689,Mont I.,A7S Moe,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Home theatre speakers,No,No,No,No,No,126,IAH,Texas,CAI,Cairo,Egypt,1/27/2023
+ASST230693,Shaun S.,A7S Bryan,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,605,BOS,Massachusetts,BOM,Maharashtra,India,1/30/2023
+ASST230702,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Spare Parts ,No,No,No,No,No,1051,ORD,Illinois,VNO,Vilnius,Lithuania,1/30/2023
+ASST230703,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Medical Equipment & Accessories (Non-DG),No,No,No,No,No,262,JFK,New York,KHI,Sindh,Pakistan,1/30/2023
+ASST230715,A7S Vito,A7S Bryan,Etihad Airways,Etihad Airways / LAX *,General,Scientific Research instruments,No,No,No,No,No,14,IAD,District of Columbia,LHE,Punjab,Pakistan,1/30/2023
+ASST230716,Rick M.,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,Other,PIZZA LOADER,No,No,No,No,No,126,SFO,California,BLR,Karnataka,India,1/30/2023
+ASST230717,Lee Krish,A7S Bryan,Mercury Air Cargo,Mercury World Cargo,General,ESSENTIAL OILS,No,No,No,No,No,3648,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/30/2023
+ASST230718,Nash H.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Personal effects,No,No,No,No,No,330,LAX,California,LHR,London,United Kingdom,1/30/2023
+ASST230719,Nash H.,A7S BookingDeskAE1,Turkish Airlines,Turkish Airlines / JFK*,Machinery,Engraving Machine,No,No,No,No,No,152,MIA,Florida,BOM,Maharashtra,India,1/30/2023
+ASST230721,Nash H.,A7S BookingDeskAE1,Turkish Airlines,Turkish Airlines / JFK*,General,Screws,No,No,No,No,No,229,DFW,Texas,DMM,Dammam,Saudi Arabia,1/30/2023
+ASST230722,Nash H.,A7S BookingDeskAE1,Turkish Airlines,Turkish Airlines / JFK*,General,Fuses,No,No,No,No,No,232,IAH,Texas,BLR,Karnataka,India,1/30/2023
+ASST230724,A7S Vito,A7S Bryan,Kuwait Airways,Kuwait Airways,General,Controller Parts ,No,No,No,No,No,614,IAH,Texas,CAI,Cairo,Egypt,1/30/2023
+ASST230725,Pam F.,A7S Ariel,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,General Cargo,Yes,No,No,No,No,203,IAH,Texas,ABZ,Aberdeen City,United Kingdom,1/30/2023
+ASST230728,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,Essential Oils,No,No,No,No,No,5066,LAX,California,DXB,Al Garhoud,United Arab Emirates,1/30/2023
+ASST230734,Nash H.,A7S Ariel,All Nippon Airways ,All Nippon Airways/LAX *,Other,Beauty Product,No,No,No,No,No,534,LAX,California,SIN,Changi,Singapore,1/30/2023
+ASST230736,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,General, Ethernet Switch Dual,No,No,No,No,No,500,ORD,Illinois,BLR,Karnataka,India,1/31/2023
+ASST230737,Shaun S.,A7S Sky,Pakistan International Airlines,Pakistan International Airlines,General,SPARE PARTS,No,No,No,No,No,117,ORD,Illinois,DMM,Dammam,Saudi Arabia,1/31/2023
+ASST230739,Shaun S.,A7S Ariel,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,"saw blades, and parts",No,No,No,No,No,1585,CLE,Ohio,BLR,Karnataka,India,1/31/2023
+ASST230740,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,369,DFW,Texas,HYD,Andhra Pradesh,India,1/31/2023
+ASST230748,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Filter Elements,No,No,No,No,No,345,IAH,Texas,BOM,Maharashtra,India,1/31/2023
+ASST230749,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,1420,MIA,Florida,BEY,Beirut,Lebanon,1/31/2023
+ASST230755,Mont I.,A7S Jason,DHL Aviation Americas,DHL Aviation Americas / SFO *,Other,Organic Peroxide Type F,No,No,Yes,No,No,45,CLE,Ohio,BKK,Bangkok,Thailand,1/31/2023
+ASST230756,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Speciality Paint,No,No,Yes,No,No,170,PHX,Arizona,BKK,Bangkok,Thailand,1/31/2023
+ASST230757,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,"Hand Held Moisture Tester M-20p A/S
+
+Lithium Metal Batteries
+UN3091 PI970 SEC II",No,No,No,No,No,744,ORD,Illinois,HYD,Andhra Pradesh,India,1/31/2023
+ASST230759,Luz Atienza,Luz Atienza,Swiss world cargo,Swiss world cargo / JFK *,General,Components,No,No,No,No,No,28,SFO,California,DEL,Punjab,India,1/31/2023
+ASST230760,A7S Vito,A7S Vito,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Live Birds,No,No,No,No,No,250,IAD,District of Columbia,KWI,Farwaniya,Kuwait,1/31/2023
+ASST230761,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1575,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/31/2023
+ASST230762,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1762.72,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/31/2023
+ASST230763,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 07pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1223,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/31/2023
+ASST230764,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 05pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1090,IAD,District of Columbia,ISU,Kurdistan,Iraq,1/31/2023
+ASST230765,Rick M.,A7S Bryan,Cathay Pacific Cargo,Cathay Pacific Cargo / SFO *,General,Auto Parts,No,No,No,No,No,236,IAH,Texas,MNL,Metro Manila,Philippines,1/31/2023
+ASST230769,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,Healthcare Products (Non-DG),No,No,No,No,No,64,IAD,District of Columbia,BLR,Karnataka,India,2/1/2023
+ASST230770,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Spare Parts,No,No,No,No,No,28,JFK,New York,HYD,Andhra Pradesh,India,2/1/2023
+ASST230776,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Accessories for Musical Instruments,No,No,No,No,No,315,ORD,Illinois,DEL,Punjab,India,2/1/2023
+ASST230777,Shaun S.,A7S Sky,Finnair Cargo,Finnair Cargo / LAX *,General,General Cargo,No,No,No,No,No,173,LAX,California,BOM,Maharashtra,India,2/1/2023
+ASST230778,Lee Krish,A7S Rama,Qatar Airways,Qatar Airways / LAX *,General,"Dia 9/16"" (14.28mm) ETD 150 Grade Br. Ba
+
+",No,No,No,No,No,364,ORD,Illinois,BOM,Maharashtra,India,2/1/2023
+ASST230779,Shaun S.,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Operating Room Products made of Akton Polymer / Orthopaedic Gel Pads,No,No,No,No,No,255,IAD,District of Columbia,RUH,Riyadh,Saudi Arabia,2/1/2023
+ASST230791,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,General,Bags,No,No,No,No,No,173.05,SLC,Utah,KWI,Farwaniya,Kuwait,2/1/2023
+ASST230793,A7S Vito,A7S Sky,Mercury Air Cargo,Mercury World Cargo,General,"Dispensing Mechanism	UN3481 LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 966",No,No,No,No,No,360,JFK,New York,DXB,Al Garhoud,United Arab Emirates,2/1/2023
+ASST230798,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Dietary Supplements,No,No,No,No,No,1060,SEA,Washington,CAI,Cairo,Egypt,2/1/2023
+ASST230803,Shaun S.,A7S Sky,China Airlines Cargo,China Airlines Cargo / SFO *,Other,ST3100 Transceiver,No,No,No,No,No,6,MIA,Florida,BKK,Bangkok,Thailand,2/2/2023
+ASST230806,Shaun S.,A7S Bryan,Cathay Pacific Cargo,Cathay Pacific Cargo / SFO *,General,Rooftop Tent (INV2023013100881),Yes,No,No,No,No,107,SFO,California,MEL,Victoria,Australia,2/2/2023
+ASST230807,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Gate valves,No,No,No,No,No,731,SFO,California,BLR,Karnataka,India,2/2/2023
+ASST230808,Shaun S.,A7S Jason,Mercury Air Cargo,Mercury World Cargo,General,Nutrition supplements / Non stackable,No,No,No,No,No,600,JFK,New York,DXB,Al Garhoud,United Arab Emirates,2/2/2023
+ASST230810,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,"CABLE ASSY:ULTIMA XL TO EMERSON 375// SENSOR, ULTIMA X, CONFIGURED  A-ULTX-SENS:-11-1-CC //SENSOR, ULTIMA X, CONFIGURED
+A-ULTX-SENS:-14-1-CC",No,No,No,No,No,136,IAD,District of Columbia,BLR,Karnataka,India,2/2/2023
+ASST230813,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,3198,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/2/2023
+ASST230817,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,1227.94,LAX,California,SGN,Thái Bình,Vietnam,2/2/2023
+ASST230824,Naomi Makoha,A7S Jason,Ethiopian airlines,Ethiopian airlines,Machinery,"Water Pump 
+1 Pallet from MegaCorp is 37x34x25"" 495",No,No,No,No,No,181,DFW,Texas,FBM,Katanga,Democratic Republic of Congo,2/2/2023
+ASST230833,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,196,LAX,California,MNL,Metro Manila,Philippines,2/2/2023
+ASST230834,Luz Atienza,Luz Atienza,All Nippon Airways ,All Nippon Airways/LAX *,General,Irrigation equipment.,No,No,No,No,No,568,SFO,California,NRT,Chiba,Japan,2/2/2023
+ASST230840,Shaun S.,A7S Ariel,Etihad Airways,Etihad Airways / LAX *,General,Control Unit and Actuator Unit for testing,No,No,No,No,No,45,JFK,New York,HYD,Andhra Pradesh,India,2/3/2023
+ASST230841,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Rabbids PC,No,No,No,No,No,113,DFW,Texas,BOM,Maharashtra,India,2/3/2023
+ASST230842,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Sports Goods ,No,No,No,No,No,811,SFO,California,DEL,Punjab,India,2/3/2023
+ASST230843,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,"Batteries Nickel Metal Hydride Non
+
+Non restricted as per Special provision A199
+",No,No,No,No,No,163,LAX,California,BOM,Maharashtra,India,2/3/2023
+ASST230845,Lee Krish,A7S Rama,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Spare parts,No,No,No,No,No,100,IAH,Texas,CAI,Cairo,Egypt,2/3/2023
+ASST230847,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,General,"Titanium 6Al-4V Wire
+Dia 0.264"" x T/P Coil - 1 pc",No,No,No,No,No,235,ORD,Illinois,BLR,Karnataka,India,2/3/2023
+ASST230849,Mont I.,A7S Jason,GULF AIR,GULF AIR / JFK *,General,Medical devices,No,No,No,No,No,4523,ATL,Georgia,RUH,Riyadh,Saudi Arabia,2/3/2023
+ASST230853,Naomi Makoha,A7S Ariel,Ethiopian airlines,Ethiopian airlines,Other, baby cloth and shoes and accessories,No,No,No,No,No,192,ATL,Georgia,ADD,Addis Ababa,Ethiopia,2/3/2023
+ASST230856,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General, Roll Cover,No,No,No,No,No,39.45,PHL,Pennsylvania,CGK,Banten,Indonesia,2/3/2023
+ASST230861,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,Profilm3D w/ Nano30,No,No,No,No,No,84.88,LAX,California,HYD,Andhra Pradesh,India,2/3/2023
+ASST230869,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,PKIT SR71 512 STL,No,No,No,No,No,112,ATL,Georgia,DMM,Dammam,Saudi Arabia,2/6/2023
+ASST230875,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Spare Parts ,No,No,No,No,No,261,DFW,Texas,BOM,Maharashtra,India,2/6/2023
+ASST230879,Lee Krish,A7S Rama,All Nippon Airways ,All Nippon Airways/LAX *,General,Engine parts,No,No,No,No,No,309,ORD,Illinois,SGN,Thái Bình,Vietnam,2/6/2023
+ASST230881,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Billiard Table or Parts,No,No,No,No,No,22,ORD,Illinois,LHE,Punjab,Pakistan,2/6/2023
+ASST230882,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Skat Blast Machine For Saudi Aramco,No,No,No,No,No,477,IAH,Texas,DMM,Dammam,Saudi Arabia,2/6/2023
+ASST230883,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,Xylenes,No,No,Yes,No,No,1,IAH,Texas,DMM,Dammam,Saudi Arabia,2/6/2023
+ASST230887,A7S Vito,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,Other,ANT150D6-9,No,No,No,No,No,27,SFO,California,CAI,Cairo,Egypt,2/6/2023
+ASST230888,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Jack Plate For Outboard Engine
+
+
+",No,No,No,No,No,131.1,MIA,Florida,MLE,Malé,Maldives,2/6/2023
+ASST230891,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General, Spare part Aircraft,No,No,No,No,No,116.55,LAX,California,SIN,Changi,Singapore,2/6/2023
+ASST230895,Shaun S.,A7S Sky,Air Canada Cargo,Air Canada Cargo/SFO *,General,Kevin Murphy - Treat Me Strength 12 ML,No,No,No,No,No,179,LAX,California,DEL,Punjab,India,2/7/2023
+ASST230896,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,General cargo,No,No,No,No,No,51,JFK,New York,BOM,Maharashtra,India,2/7/2023
+ASST230897,Lee Krish,A7S Rama,UPS Air Cargo,UPS Air Cargo,General,Plastic laser engravable sheets,No,No,No,No,No,191,ORD,Illinois,BLR,Karnataka,India,2/7/2023
+ASST230898,Shaun S.,A7S Bryan,British Airways,British Airways/SFO *,General,Asphalt Based Potting Compounds,No,No,No,No,No,3696,IAH,Texas,DEL,Punjab,India,2/7/2023
+ASST230900,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Black Plastic Slide Tube // Plastic Flow Ring,No,No,No,No,No,100,JFK,New York,SGN,Thái Bình,Vietnam,2/7/2023
+ASST230911,Shaun S.,A7S Jason,Qatar Airways,Qatar Airways / LAX *,General,Food Supplements,No,No,No,No,No,500,LAX,California,KHI,Sindh,Pakistan,2/7/2023
+ASST230913,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,459,ORD,Illinois,BEY,Beirut,Lebanon,2/7/2023
+ASST230919,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,Pizza Loader,No,No,No,No,No,76,SFO,California,BLR,Karnataka,India,2/7/2023
+ASST230923,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,Concrete Test Equipment,No,No,No,No,No,502,ORD,Illinois,SIN,Changi,Singapore,2/7/2023
+ASST230924,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,E-Shisha Flavors ,No,No,No,No,No,3576,LAX,California,KWI,Farwaniya,Kuwait,2/7/2023
+ASST230925,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,"Catridges for Weapons, Blank",No,No,Yes,No,No,243,ORD,Illinois,SIN,Changi,Singapore,2/7/2023
+ASST230930,Shaun S.,A7S Moe,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Medical Supplies,No,No,No,No,No,56,ORD,Illinois,TRV,Kerala,India,2/8/2023
+ASST230932,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,"Silicone/Pharma Tubing					",No,No,No,No,No,253,EWR,New Jersey,BOM,Maharashtra,India,2/8/2023
+ASST230933,Shaun S.,A7S Sky,Etihad Airways,Etihad Airways / LAX *,Other,"Potassium phosphates
+Temp 20 to 25c",No,No,No,Yes,No,11,JFK,New York,BLR,Karnataka,India,2/8/2023
+ASST230934,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Hard SS Coil Coc,No,No,No,No,No,50,CLE,Ohio,BOM,Maharashtra,India,2/8/2023
+ASST230935,Lee Krish,A7S Rama,​Air Serbia Cargo,​Air Serbia Cargo/BEG,General,Seeds,No,No,No,No,No,31,DEN,Colorado,IST,Adana,Turkey,2/8/2023
+ASST230936,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,"K1601PC-T1: 15/25kV, 200 amp long shank bushing well with bail tabs",No,No,No,No,No,300,ATL,Georgia,HYD,Andhra Pradesh,India,2/8/2023
+ASST230937,Lee Krish,A7S Jason,Qatar Airways,Qatar Airways / LAX *,Other,Medical parts / Maintain Temperature : +2 to +8 C  ,No,No,No,Yes,No,43,SFO,California,BLR,Karnataka,India,2/8/2023
+ASST230938,A7S Vito,A7S Moe,Qatar Airways,Qatar Airways / LAX *,General,Door Hinges,No,No,No,No,No,1522,ATL,Georgia,DXB,Al Garhoud,United Arab Emirates,2/8/2023
+ASST230943,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,medical tape/supplies,No,No,No,No,No,136,ORD,Illinois,HYD,Andhra Pradesh,India,2/8/2023
+ASST230945,Mont I.,A7S Jason,China Airlines Cargo,China Airlines Cargo / SFO *,Other,Aerosols Flammable,No,No,Yes,No,No,77,ATL,Georgia,KUL,Selangor,Malaysia,2/8/2023
+ASST230948,Naomi Makoha,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Household/Personal Goods,used clothing,Yes,No,No,No,No,195.05,TPA,Florida,NBO,Nairobi,Kenya,2/8/2023
+ASST230949,A7S Gary,A7S Moe,Finnair Cargo,Finnair Cargo / LAX *,General,B-9 (Nickel Stripper) ,No,No,No,No,No,454,ATL,Georgia,WAW,Włochy,Poland,2/8/2023
+ASST230951,A7S Gary,A7S Ariel,Mercury Air Cargo,Mercury World Cargo,Other,Confectionary flavour,No,No,No,No,No,3651,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/8/2023
+ASST230952,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,680.27,LAX,California,SGN,Thái Bình,Vietnam,2/8/2023
+ASST230954,Shaun S.,A7S Sky,Air Canada Cargo,Air Canada Cargo/SFO *,General,"CHLORINATION EQUIPMENT & PARTS									",No,No,No,No,No,25,MIA,Florida,BOM,Maharashtra,India,2/9/2023
+ASST230958,Shaun S.,A7S Bryan,British Airways,British Airways/SFO *,General,"SUPPLY OF LIQUID
+ANALYSER PACKAGE",No,No,No,No,No,14,BOS,Massachusetts,BOM,Maharashtra,India,2/9/2023
+ASST230959,Shaun S.,A7S Moe,Air India,Air India / SFO *,General,Paints and Varnishes in an aqueous medium // Non-DG,No,No,No,No,No,113,JFK,New York,HYD,Andhra Pradesh,India,2/9/2023
+ASST230961,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"Spare parts
+",No,No,No,No,No,136,DFW,Texas,IST,Adana,Turkey,2/9/2023
+ASST230962,Shaun S.,A7S Ariel,Air India,Air India / SFO *,General,Seal Door,No,No,No,No,No,369,EWR,New Jersey,BOM,Maharashtra,India,2/9/2023
+ASST230963,Shaun S.,A7S Rama,British Airways,British Airways/SFO *,General,Antenna,No,No,No,No,No,590,BOS,Massachusetts,BLR,Karnataka,India,2/9/2023
+ASST230964,Lee Krish,A7S Rama,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Steam Turbine Parts ,No,No,No,No,No,29,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/9/2023
+ASST230965,Shaun S.,A7S Moe,Finnair Cargo,Finnair Cargo / LAX *,General,"Sealing Plug, Insertion/Removal Tool",No,No,No,No,No,184,LAX,California,BOM,Maharashtra,India,2/9/2023
+ASST230966,Shaun S.,A7S Sky,Air India,Air India / SFO *,General,MAGNETOMETER ,No,No,No,No,No,100,SFO,California,BOM,Maharashtra,India,2/9/2023
+ASST230967,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,"Ring pendent ,Earring Jewellery Box",No,No,No,No,No,336,JFK,New York,BOM,Maharashtra,India,2/9/2023
+ASST230968,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Not For Human Use
+Medical supply demo units
+Orbital Athroectomy",No,No,No,No,No,22,MSP,Minnesota,DEL,Punjab,India,2/9/2023
+ASST230969,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General, SCL SR PS 13,No,No,No,No,No,339,JFK,New York,MGQ,Banaadir,Somalia,2/9/2023
+ASST230973,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,PIZZA LOADER ,No,No,No,No,No,28,SFO,California,BLR,Karnataka,India,2/9/2023
+ASST230975,Mont I.,A7S Jason,DHL Aviation Americas,DHL Aviation Americas / SFO *,Other,"UN3090, Lithium Metal batteries, class 9 SEC I",No,No,No,No,No,2,LAX,California,MCT,Muscat,Oman,2/9/2023
+ASST230976,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,General,Irrigation Equipment,No,No,No,No,No,112,ORD,Illinois,RUH,Riyadh,Saudi Arabia,2/9/2023
+ASST230977,Luz Atienza,Luz Atienza,Air India,Air India / SFO *,General,"Parts of Microscopes
+Invoice # 2230209",No,No,No,No,No,34,SFO,California,DEL,Punjab,India,2/9/2023
+ASST230981,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General, crane parts,No,No,No,No,No,20.41,IAH,Texas,CAI,Cairo,Egypt,2/9/2023
+ASST230986,Shaun S.,A7S Rama,Air India,Air India / SFO *,General,Access Control System,No,No,No,No,No,50,JFK,New York,BLR,Karnataka,India,2/10/2023
+ASST230988,Shaun S.,A7S Moe,Air India,Air India / SFO *,General,Flavouring Compound,No,No,No,No,No,115,JFK,New York,DEL,Punjab,India,2/10/2023
+ASST230989,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,Spare parts,No,No,No,No,No,72,DEN,Colorado,LOS,Anambra,Nigeria,2/10/2023
+ASST230990,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,Other,Display Wall Controllers,No,No,No,No,No,189,SFO,California,IST,Adana,Turkey,2/10/2023
+ASST230991,A7S Vito,A7S Bryan,Mercury Air Cargo,Mercury World Cargo,Other,Essential Oils,No,No,No,No,No,2129,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/10/2023
+ASST230993,A7S Gary,A7S Moe,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,1039,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,2/10/2023
+ASST230994,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Ceramic Powder,No,No,No,No,No,21,JFK,New York,BOM,Maharashtra,India,2/10/2023
+ASST230995,A7S Gary,A7S Rama,British Airways,British Airways/SFO *,Other,Sand Piper Pump (GCR),No,No,No,No,No,309,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,2/10/2023
+ASST230996,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Purifier Spare Parts,No,No,No,No,No,221,ATL,Georgia,BOM,Maharashtra,India,2/10/2023
+ASST230997,A7S Gary,A7S Ariel,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Industrial Spray Nozzles,No,No,No,No,No,18,BOS,Massachusetts,CCU,West Bengal,India,2/10/2023
+ASST230998,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,"Prime and takis
+",No,No,No,No,No,3036,MIA,Florida,LHR,London,United Kingdom,2/10/2023
+ASST230999,A7S Vito,A7S Bryan,United Airlines Cargo,United Airlines Cargo *,General,Prime Hydration Drink Variety,No,No,No,No,No,1800,CLT,North Carolina,LHR,London,United Kingdom,2/10/2023
+ASST231007,A7S Gary,A7S Bryan,All Nippon Airways ,All Nippon Airways/LAX *,General,Steel Gate Vales,No,No,No,No,No,2812,IAH,Texas,KUL,Selangor,Malaysia,2/10/2023
+ASST231013,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,3027,JFK,New York,JED,Mecca,Saudi Arabia,2/10/2023
+ASST231015,A7S Gary,A7S Sky,Silk Way Airlines,Silk Way Airlines / MIA *,General,Current Transformer,No,No,No,No,No,275,MIA,Florida,BSR,Basrah,Iraq,2/10/2023
+ASST231018,A7S Vito,A7S Ariel,Cargolux,Cargolux/SFO *,General,"""Film on Canvas"" Hardcover book",No,No,No,No,No,331,JFK,New York,BER,Brandenburg,Germany,2/12/2023
+ASST231019,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,General,SILICONES,No,No,No,No,No,505,ORD,Illinois,BOM,Maharashtra,India,2/13/2023
+ASST231026,Shaun S.,A7S Sky,China Airlines Cargo,China Airlines Cargo / SFO *,General,"MATERIAL STRIPS .138"" + .003"" X 24.016"" X STRIPS",No,No,No,No,No,384,LAX,California,CAN,Guangdong Province,China,2/13/2023
+ASST231029,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Corrosion Testing Equipment,No,No,No,No,No,100,MIA,Florida,BKK,Bangkok,Thailand,2/13/2023
+ASST231034,Shaun S.,A7S Moe,Air Canada Cargo,Air Canada Cargo/SFO *,General,Prover Seal Kit,No,No,No,No,No,4,ATL,Georgia,BKK,Bangkok,Thailand,2/13/2023
+ASST231045,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,General,PIPE-PUREBOND PFA 3/4 10FT,No,No,No,No,No,100,MSP,Minnesota,BLR,Karnataka,India,2/13/2023
+ASST231046,Lee Krish,A7S Rama,Air India,Air India / SFO *,General, PTFE Tube,No,No,No,No,No,125,JFK,New York,BLR,Karnataka,India,2/13/2023
+ASST231047,Shaun S.,A7S Ariel,Finnair Cargo,Finnair Cargo / LAX *,General,UNIT ASSY,No,No,No,No,No,3,LAX,California,BOM,Maharashtra,India,2/13/2023
+ASST231050,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,ESSENTIAL OILS,No,No,No,No,No,8325,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/13/2023
+ASST231051,Lee Krish,A7S Sky,British Airways,British Airways/SFO *,General,Carbowax Sentry PEG 540 Blend,No,No,No,No,No,1000,IAH,Texas,BOM,Maharashtra,India,2/13/2023
+ASST231060,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Steel Ball Valves,No,No,No,No,No,329,IAH,Texas,CGK,Banten,Indonesia,2/13/2023
+ASST231064,Surya Dhamija,A7S BookingDeskAE1,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Paint,No,No,Yes,No,No,879,JFK,New York,BLR,Karnataka,India,2/13/2023
+ASST231065,Tracy Khuu,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"​Gift, household goods - Not Restricted.
+",No,No,No,No,No,680,MIA,Florida,HAN,Hà Nội,Vietnam,2/13/2023
+ASST231067,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,General,Oxide Inhibitor Non-Haz,No,No,No,No,No,45,JFK,New York,DOH,Doha,Qatar,2/13/2023
+ASST231069,A7S Gary,A7S Ariel,Mercury world Cargo,Mercury world Cargo,Other,Chemicals,No,No,No,No,No,147,CLT,North Carolina,CGK,Banten,Indonesia,2/13/2023
+ASST231076,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,General,LED STREET LIGHTING SYSTEM,No,No,No,No,No,157,MIA,Florida,BAH,,Bahrain,2/14/2023
+ASST231077,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,175,IAH,Texas,HYD,Andhra Pradesh,India,2/14/2023
+ASST231078,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Medical Dressing,No,No,No,No,No,207,DFW,Texas,DOH,Doha,Qatar,2/14/2023
+ASST231079,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,"Workstation Monitors 
+Electronic Testers",No,No,No,No,No,400,LAX,California,BLR,Karnataka,India,2/14/2023
+ASST231080,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,Other,"Non Infectious Tissue
+Temp: 2-8C",No,No,No,Yes,No,22,ORD,Illinois,RUH,Riyadh,Saudi Arabia,2/14/2023
+ASST231082,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,208,IAD,District of Columbia,EBL,Kurdistan,Iraq,2/14/2023
+ASST231084,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Antenna with accessories 1 set,No,No,No,No,No,132,SEA,Washington,BKK,Bangkok,Thailand,2/14/2023
+ASST231086,Luz Atienza,Luz Atienza,Korean Air Cargo,Korean Air Cargo / SFO *,General,"Books and Accessories
+
+",No,No,No,No,No,143,SFO,California,BKK,Bangkok,Thailand,2/14/2023
+ASST231087,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,Machinery,"Irrigation Equipment
+",No,No,No,No,No,401,SFO,California,DOH,Doha,Qatar,2/14/2023
+ASST231089,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Headlights, accessories, Auto Spares
+
+",No,No,No,No,No,1551,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/14/2023
+ASST231090,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,930,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/14/2023
+ASST231091,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 05pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1290,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/14/2023
+ASST231092,A7S Vito,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 05pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,960,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/14/2023
+ASST231095,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,3363,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/14/2023
+ASST231096,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,General,Irrigation equipment,No,No,No,No,No,157,SFO,California,DXB,Al Garhoud,United Arab Emirates,2/14/2023
+ASST231097,Mont I.,A7S Jason,Qatar Airways,Qatar Airways / LAX *,Other,Cosmetics/Skincare,No,No,No,No,No,1789,BOS,Massachusetts,RUH,Riyadh,Saudi Arabia,2/15/2023
+ASST231098,Shaun S.,A7S Sky,Air Canada Cargo,Air Canada Cargo/SFO *,General,FEP WG 5 mil,No,No,No,No,No,60,BOS,Massachusetts,BOM,Maharashtra,India,2/15/2023
+ASST231099,Shaun S.,A7S Moe,British Airways,British Airways/SFO *,General,Pet Food,No,No,No,No,No,245,CVG,Kentucky,DXB,Al Garhoud,United Arab Emirates,2/15/2023
+ASST231100,Shaun S.,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,100,ORD,Illinois,JED,Mecca,Saudi Arabia,2/15/2023
+ASST231104,Shaun S.,A7S Rama,Royal Jordanian,Royal Jordanian / JFK,General,Vaporizing Equipment,No,No,No,No,No,1000,SEA,Washington,AMM,Amman,Jordan,2/15/2023
+ASST231108,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,436,IAH,Texas,DMM,Dammam,Saudi Arabia,2/15/2023
+ASST231109,Shaun S.,A7S Bryan,Cargolux,Cargolux/SFO *,General,Bowling Equipment Parts & Accessories (Non-Stackable),No,No,No,No,No,100,LAX,California,DMM,Dammam,Saudi Arabia,2/15/2023
+ASST231110,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,Other,"Perishable Cargo / Tecan Genesis. 50 uL tips, 1 tray, clear / Maintain Temperature : +2 to +8 C  
+
+",No,No,No,Yes,No,24,LAX,California,BLR,Karnataka,India,2/15/2023
+ASST231111,Shaun S.,A7S Moe,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Gasket,No,No,No,No,No,116,CLT,North Carolina,BKK,Bangkok,Thailand,2/15/2023
+ASST231115,A7S Gary,A7S Bryan,British Airways,British Airways/SFO *,General,SS Power Assist,No,No,No,No,No,173,ORD,Illinois,MLE,Malé,Maldives,2/15/2023
+ASST231116,A7S Gary,A7S Sky,All Nippon Airways ,All Nippon Airways/LAX *,General,General cargo,No,No,No,No,No,236,ORD,Illinois,CGK,Banten,Indonesia,2/15/2023
+ASST231118,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Computer Cabinet Module,No,No,No,No,No,75.51,SFO,California,DXB,Al Garhoud,United Arab Emirates,2/16/2023
+ASST231122,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Oxygen Analyzer,No,No,No,No,No,50,LAX,California,BOM,Maharashtra,India,2/16/2023
+ASST231125,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,Other,"Insulated Tinned Copper Wire
+Electric Parts
+
+
+
+",No,No,No,No,No,571,JFK,New York,MAA,Tamil Nadu,India,2/16/2023
+ASST231126,Mont I.,A7S Jason,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"Alcohols, n.o.s. (ethanol, methanol)",No,No,Yes,No,No,212,ORD,Illinois,CGK,Banten,Indonesia,2/16/2023
+ASST231128,Mont I.,A7S Jason,Etihad Airways,Etihad Airways / LAX *,Other,"Dicyclohexylmethane-4,4'-Diisocyanate",No,No,Yes,No,No,519,ORD,Illinois,BLR,Karnataka,India,2/16/2023
+ASST231129,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Spare Parts,No,No,No,No,No,23,LAX,California,KUL,Selangor,Malaysia,2/16/2023
+ASST231133,Shaun S.,A7S Sky,Pakistan International Airlines,Pakistan International Airlines,General,VERTICAL CONTACT TOASTER,No,No,No,No,No,100,JFK,New York,DMM,Dammam,Saudi Arabia,2/16/2023
+ASST231135,A7S Gary,A7S Moe,British Airways,British Airways/SFO *,General, Mechanical Appliances,No,No,No,No,No,184,LAX,California,BOM,Maharashtra,India,2/16/2023
+ASST231139,A7S Gary,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General,General Cargo,No,No,No,No,No,100,PHX,Arizona,DEL,Punjab,India,2/16/2023
+ASST231141,A7S Gary,A7S Sky,Air Canada Cargo,Air Canada Cargo/SFO *,Machinery,Machinery,No,No,No,No,No,263,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,2/16/2023
+ASST231147,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,259,LAX,California,MNL,Metro Manila,Philippines,2/16/2023
+ASST231148,Pam F.,A7S Moe,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,HHG/ PE,Yes,No,No,No,No,185,SFO,California,DEL,Punjab,India,2/16/2023
+ASST231151,Luz Atienza,Luz Atienza,Swiss world cargo,Swiss world cargo / JFK *,General,"Parts of Microscopes
+Invoice# 2230215
+
+16 lbs. Dims are 20x16x14.",No,No,No,No,No,7,SFO,California,DEL,Punjab,India,2/16/2023
+ASST231154,Shaun S.,A7S Sky,UPS Air Cargo,UPS Air Cargo,General,PLASTIC ELECTRICAL SAFETY SWITCHES - Non-Stackable,No,No,No,No,No,500,ORD,Illinois,BLR,Karnataka,India,2/17/2023
+ASST231155,Shaun S.,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,General,Laboratory diagnostic kits OFAC general licensed,No,No,No,No,No,22,LAX,California,IKA,Tehran,Iran,2/17/2023
+ASST231158,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,General,"Coumarone-Indene Resins
+",No,No,No,No,No,300,BOS,Massachusetts,BOM,Maharashtra,India,2/17/2023
+ASST231159,Lee Krish,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General,RETAINER FUEL FEDD,No,No,No,No,No,24,DTW,Michigan,BOM,Maharashtra,India,2/17/2023
+ASST231160,Lee Krish,A7S Bryan,United Airlines Cargo,United Airlines Cargo *,General,"CCF35H LN2 DEWAR, ROLLER BASE FINAL ASSEMBLY",No,No,No,No,No,193,ATL,Georgia,AMM,Amman,Jordan,2/17/2023
+ASST231167,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,General,"Switch cord, Wheel caster draw latch and keeper",No,No,No,No,No,161,ORD,Illinois,DOH,Doha,Qatar,2/17/2023
+ASST231168,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,General,Compr&Part,No,No,No,No,No,393,ORD,Illinois,DOH,Doha,Qatar,2/17/2023
+ASST231176,A7S Nakul,A7S Ariel,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Used Household goods,Yes,Yes,No,No,No,1306.27,SFO,California,IKA,Tehran,Iran,2/17/2023
+ASST231181,Shaun S.,A7S Rama,Pakistan International Airlines,Pakistan International Airlines,Other,PARTS FOR NON-AIRCRAFT GAS TURBINE,No,No,No,No,No,1621,JFK,New York,DMM,Dammam,Saudi Arabia,2/20/2023
+ASST231182,Shaun S.,A7S Moe,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Medical Supplies,No,No,No,No,No,56,ORD,Illinois,TRV,Kerala,India,2/20/2023
+ASST231183,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Semi conductors,No,No,No,No,No,204,JFK,New York,HYD,Andhra Pradesh,India,2/20/2023
+ASST231188,A7S Vito,A7S Sky,Mercury world Cargo,Mercury world Cargo,General,Essential Oils ,No,No,No,No,No,2130,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/20/2023
+ASST231189,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,680.27,LAX,California,SGN,Thái Bình,Vietnam,2/20/2023
+ASST231190,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,GIFTS,No,No,No,No,No,800,LAX,California,SGN,Thái Bình,Vietnam,2/20/2023
+ASST231192,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,GLAM GOBLET COBALT,No,No,No,No,No,163,MIA,Florida,HYD,Andhra Pradesh,India,2/20/2023
+ASST231193,Lee Krish,A7S Sky,All Nippon Airways ,All Nippon Airways/LAX *,General,Spare Parts,No,No,No,No,No,541,SFO,California,BKK,Bangkok,Thailand,2/20/2023
+ASST231201,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)
+
+",No,No,No,No,No,500,MIA,Florida,BEY,Beirut,Lebanon,2/21/2023
+ASST231203,Lee Krish,A7S Bryan,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Historical company documents,No,No,No,No,No,645,LAX,California,CMN,Casablanca-Settat,Morocco,2/21/2023
+ASST231204,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,ATF Inline & Dipstick Exchanger w/ Touch Screen SKU-40400055 – FLO-DYNAMICS,No,No,No,No,No,231,JFK,New York,KWI,Farwaniya,Kuwait,2/21/2023
+ASST231205,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,3345,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/21/2023
+ASST231206,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,22,SFO,California,HYD,Andhra Pradesh,India,2/21/2023
+ASST231209,Lee Krish,A7S Jason,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,DC Traction Drive,No,No,No,No,No,783,IAD,District of Columbia,CCU,West Bengal,India,2/21/2023
+ASST231211,Lee Krish,A7S Moe,Air Canada Cargo,Air Canada Cargo/SFO *,General,General Cargo,No,No,No,No,No,45,SAN,California,DEL,Punjab,India,2/21/2023
+ASST231214,Lee Krish,A7S Moe,Air India,Air India / SFO *,General,"Alumina,",No,No,No,No,No,344,JFK,New York,AMD,Gujarat,India,2/21/2023
+ASST231220,Mont I.,A7S Jason,Swiss world cargo,Swiss world cargo / JFK *,Other,Perfumery products,No,No,Yes,No,No,24,MIA,Florida,MCT,Muscat,Oman,2/21/2023
+ASST231221,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"  (Microbial Inoculant), (Nutrient Solution),",No,No,No,No,No,9,MIA,Florida,LHE,Punjab,Pakistan,2/21/2023
+ASST231225,A7S Gary,A7S Moe,British Airways,British Airways/SFO *,General,Escalator Cleaning tools & Accessories,No,No,No,No,No,727,SFO,California,DOH,Doha,Qatar,2/21/2023
+ASST231226,A7S Gary,A7S Moe,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,1000,DTW,Michigan,JED,Mecca,Saudi Arabia,2/21/2023
+ASST231237,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,Lights,No,No,No,No,No,221,SEA,Washington,BOM,Maharashtra,India,2/22/2023
+ASST231238,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,"CABLE ASSY:ULTIMA XL TO EMERSON
+375 // SENSOR, ULTIMA X, CONFIGURED
+A-ULTX-SENS:-11-1-CC // SENSOR,
+ULTIMA X, CONFIGURED
+A-ULTX-SENS:-14-1-CC,",No,No,No,No,No,141,PIT,Pennsylvania,BLR,Karnataka,India,2/22/2023
+ASST231240,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Spare parts,No,No,No,No,No,1511,JFK,New York,IST,Adana,Turkey,2/22/2023
+ASST231242,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,3627,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/22/2023
+ASST231247,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,DAR,Dar es Salaam,Tanzania,2/22/2023
+ASST231248,A7S Gary,A7S Moe,Qatar Airways,Qatar Airways / LAX *,General,Garments,No,No,No,No,No,404,LAX,California,KWI,Farwaniya,Kuwait,2/22/2023
+ASST231249,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,2101,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/22/2023
+ASST231253,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Stream Nozzle,No,No,No,No,No,33,ORD,Illinois,KUL,Selangor,Malaysia,2/22/2023
+ASST231254,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,2/22/2023
+ASST231255,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,2/22/2023
+ASST231256,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,2/22/2023
+ASST231258,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,Store supplies,No,No,No,No,No,205,IAD,District of Columbia,DAR,Dar es Salaam,Tanzania,2/22/2023
+ASST231259,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Headlights, accessories, Auto Spares
+
+",No,No,No,No,No,1551,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/22/2023
+ASST231267,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,225,MIA,Florida,BEY,Beirut,Lebanon,2/23/2023
+ASST231268,Shaun S.,A7S Moe,Pakistan International Airlines,Pakistan International Airlines,General,Magnetrol Model Xtd2-8d00-0c0,No,No,No,No,No,189,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/23/2023
+ASST231271,A7S Gary,A7S Moe,Qatar Airways,Qatar Airways / LAX *,Other,Barleygreen Premium without Kelp 200g Organic USA,No,No,No,No,No,166,ATL,Georgia,MNL,Metro Manila,Philippines,2/23/2023
+ASST231274,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,Other,"Medicaments
+15-25 degree",No,No,No,Yes,No,20,JFK,New York,ISU,Kurdistan,Iraq,2/23/2023
+ASST231276,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,General Cargo,No,No,No,No,No,159,ORD,Illinois,BOM,Maharashtra,India,2/23/2023
+ASST231277,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Cable,No,No,No,No,No,911,ATL,Georgia,MAA,Tamil Nadu,India,2/23/2023
+ASST231278,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,Other,Medical Converted Pulse Oximeter,No,No,No,No,No,300,ATL,Georgia,HYD,Andhra Pradesh,India,2/23/2023
+ASST231279,Lee Krish,A7S Bryan,American Airlines Cargo,American Airlines Cargo/ORD *,General,Fluid & Blanket Warmer. 1 compartment with Tri-Mode function,No,No,No,No,No,323,ORD,Illinois,DOH,Doha,Qatar,2/23/2023
+ASST231281,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,"Pumps Fitted or Designed to be Fitted with a Measuring Device, Nesoi.
+-NON Stackable",No,No,No,No,No,884,JFK,New York,SIN,Changi,Singapore,2/23/2023
+ASST231282,A7S Gary,A7S Bryan,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General, printer equipment,No,No,No,No,No,16,SFO,California,JED,Mecca,Saudi Arabia,2/23/2023
+ASST231284,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Disposable Microtome Blades,No,No,No,No,No,53,JFK,New York,CAI,Cairo,Egypt,2/23/2023
+ASST231285,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Medical Supplies
+
+",No,No,No,No,No,4048.43,ATL,Georgia,DOH,Doha,Qatar,2/23/2023
+ASST231287,Surya Dhamija,A7S BookingDeskAE1,China Airlines Cargo,China Airlines Cargo / SFO *,Other,GIFTS,No,No,No,No,No,680.27,MIA,Florida,SGN,Thái Bình,Vietnam,2/23/2023
+ASST231288,A7S Vito,A7S Bryan,British Airways,British Airways/SFO *,General,Door hardware,No,No,No,No,No,328,ATL,Georgia,DXB,Al Garhoud,United Arab Emirates,2/23/2023
+ASST231289,A7S Gary,A7S Bryan,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,Lntrn Assy Mled,No,No,No,No,No,45,IAH,Texas,KUL,Selangor,Malaysia,2/23/2023
+ASST231292,Luz Atienza,Luz Atienza,Air India,Air India / SFO *,General,"Components 
+ Invoice #23-34378",No,No,No,No,No,113,SFO,California,DEL,Punjab,India,2/23/2023
+ASST231293,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 02pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,940,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/23/2023
+ASST231294,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,835,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/23/2023
+ASST231295,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,975,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/23/2023
+ASST231296,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 02pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,625,IAD,District of Columbia,ISU,Kurdistan,Iraq,2/23/2023
+ASST231305,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Offshore Transfer Device,No,No,No,No,No,710,IAH,Texas,MAA,Tamil Nadu,India,2/24/2023
+ASST231306,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Moist Oril,No,No,No,No,No,168,IND,Indiana,DEL,Punjab,India,2/24/2023
+ASST231308,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Game Cards / Complete Bow assembly/ wire tansfer ,No,No,No,No,No,100,EWR,New Jersey,BOM,Maharashtra,India,2/24/2023
+ASST231309,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Oas Demo Kit,No,No,No,No,No,58,MSP,Minnesota,DEL,Punjab,India,2/24/2023
+ASST231312,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Medical Equipment ,No,No,No,No,No,236,JFK,New York,MAA,Tamil Nadu,India,2/24/2023
+ASST231314,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Filter Elements,No,No,No,No,No,45,ATL,Georgia,KHI,Sindh,Pakistan,2/24/2023
+ASST231316,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Dangerous Goods,Paint,No,No,Yes,No,No,29,LAX,California,BLR,Karnataka,India,2/24/2023
+ASST231317,A7S Gary,A7S Bryan,China Airlines Cargo,China Airlines Cargo / SFO *,General,"Cigars 
+Non - stackable",No,No,No,No,No,146.8,MIA,Florida,HKG,Tsuen Wan District,Hong Kong,2/24/2023
+ASST231318,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Cable,No,No,No,No,No,441,IAD,District of Columbia,MAA,Tamil Nadu,India,2/24/2023
+ASST231319,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,"FEP WG 5 mil
+
+",No,No,No,No,No,60,BOS,Massachusetts,BOM,Maharashtra,India,2/24/2023
+ASST231321,Shaun S.,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,General,Laboratory diagnostic kits OFAC general licensed,No,No,No,No,No,70,LAX,California,IKA,Tehran,Iran,2/24/2023
+ASST231322,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,Lighting Fixture ,No,No,No,No,No,111.1,BOS,Massachusetts,BOM,Maharashtra,India,2/24/2023
+ASST231329,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,E-Liquids,No,No,No,No,No,727,LAX,California,BAH,,Bahrain,2/24/2023
+ASST231330,Pam F.,A7S Bryan,Lufthansa Cargo,Lufthansa Cargo / JFK *,Household/Personal Goods,Used Household Goods & Personnal Effects,Yes,No,No,No,No,54,PHX,Arizona,TIA,Tirana,Albania,2/24/2023
+ASST231335,Shaun S.,A7S Bryan,Qatar Airways,Qatar Airways / LAX *,General,"Coil Mesh Aluminium curtain tracks and Coil Mesh Aluminium curtains
+Spare track runners and connecting bolts",No,No,No,No,No,325,LAX,California,NBO,Nairobi,Kenya,2/27/2023
+ASST231336,Shaun S.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,General cargo,No,No,No,No,No,100,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/27/2023
+ASST231344,Shaun S.,A7S Sky,Finnair Cargo,Finnair Cargo / LAX *,General,Mass Flow Controllers & Pressure Controllers,No,No,No,No,No,85,LAX,California,BOM,Maharashtra,India,2/27/2023
+ASST231347,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Electrochemical Quartz Crystal Microbalance,No,No,No,No,No,125,IAH,Texas,BLR,Karnataka,India,2/27/2023
+ASST231348,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,Other,Non Infectious Tissue / Maintain Temperature is 2-8C,No,No,No,Yes,No,12,ORD,Illinois,RUH,Riyadh,Saudi Arabia,2/27/2023
+ASST231351,Lee Krish,A7S Rama,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,LRA650_425-SS-114.000,No,No,No,No,No,27,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/27/2023
+ASST231353,A7S Gary,A7S Gary,All Nippon Airways ,All Nippon Airways/LAX *,General,Spare Parts for Commercial Cooking Equipment,No,No,No,No,No,300,BOS,Massachusetts,MNL,Metro Manila,Philippines,2/27/2023
+ASST231355,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,983,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/27/2023
+ASST231357,A7S Gary,A7S Sky,Qatar Airways,Qatar Airways / LAX *,General,Furniture,No,No,No,No,No,3532,SFO,California,DXB,Al Garhoud,United Arab Emirates,2/27/2023
+ASST231360,Shaun S.,A7S Sky,Qatar Airways,Qatar Airways / LAX *,General,Alum Bar,No,No,No,No,No,303,JFK,New York,BLR,Karnataka,India,2/27/2023
+ASST231365,Shaun S.,A7S Bryan,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Tattoo accessories Machine,No,No,No,No,No,163,LAX,California,DXB,Al Garhoud,United Arab Emirates,2/27/2023
+ASST231366,Luz Atienza,Luz Atienza,Turkish Airlines,Turkish Airlines / JFK*,General,Bags and etc,No,No,No,No,No,311,SFO,California,KUL,Selangor,Malaysia,2/27/2023
+ASST231369,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,ATL,Georgia,SGN,Thái Bình,Vietnam,2/27/2023
+ASST231377,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"AIRCOMPRESSOR
+LC NO. L076970 DATE: 221122
+EXW USA, AS PER INCOTERMS 2020.",No,No,No,No,No,877,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/28/2023
+ASST231379,A7S Vito,A7S Sky,Ethiopian airlines,Ethiopian airlines,General,Essential Oils ,No,No,No,No,No,1971.92,JFK,New York,DXB,Al Garhoud,United Arab Emirates,2/28/2023
+ASST231381,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,100,ORD,Illinois,DMM,Dammam,Saudi Arabia,2/28/2023
+ASST231382,A7S Vito,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,General,Machinery Parts,No,No,No,No,No,60,SFO,California,DEL,Punjab,India,2/28/2023
+ASST231383,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,COMPRESSOR,No,No,No,No,No,1478,DFW,Texas,DEL,Punjab,India,2/28/2023
+ASST231384,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,178,ATL,Georgia,KHI,Sindh,Pakistan,2/28/2023
+ASST231387,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,168,JFK,New York,KWI,Farwaniya,Kuwait,2/28/2023
+ASST231392,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"PC Equipment
+
+",No,No,No,No,No,151,IAD,District of Columbia,EBL,Kurdistan,Iraq,2/28/2023
+ASST231393,Surya Dhamija,A7S BookingDeskAE1,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,2028,MIA,Florida,SGN,Thái Bình,Vietnam,2/28/2023
+ASST231394,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Laptops,No,No,No,No,No,370,IAD,District of Columbia,DXB,Al Garhoud,United Arab Emirates,2/28/2023
+ASST231401,Shaun S.,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Sports goods,No,No,No,No,No,391,ATL,Georgia,DEL,Punjab,India,3/1/2023
+ASST231402,Shaun S.,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,"Laboratory reagents and Consumables - Perishable, packed in a foam box with frozen gel packs, 2-8C storage",No,No,No,No,No,19,ORD,Illinois,AMM,Amman,Jordan,3/1/2023
+ASST231403,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,834,MIA,Florida,BEY,Beirut,Lebanon,3/1/2023
+ASST231404,Shaun S.,A7S Sky,Cargolux,Cargolux/SFO *,General,Corrosion Testing Lab Equipment ,No,No,No,No,No,6563,ORD,Illinois,DMM,Dammam,Saudi Arabia,3/1/2023
+ASST231406,Shaun S.,A7S Sky,Etihad Airways,Etihad Airways / LAX *,General,Medical Equipment ,No,No,No,No,No,378,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,3/1/2023
+ASST231411,A7S Gary,A7S Gary,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Gasket, SIL  RUB: 1/2 X 1 Dome",No,No,No,No,No,302,JFK,New York,DEL,Punjab,India,3/1/2023
+ASST231412,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Printed books,No,No,No,No,No,100,SFO,California,MAA,Tamil Nadu,India,3/1/2023
+ASST231413,Lee Krish,A7S Rama,Air India,Air India / SFO *,Other,Copper Alloy,No,No,No,No,No,207,JFK,New York,BOM,Maharashtra,India,3/1/2023
+ASST231414,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Reemay,No,No,No,No,No,226,ATL,Georgia,DEL,Punjab,India,3/1/2023
+ASST231416,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Dangerous Goods,Soldering Flux,No,No,Yes,No,No,23,SFO,California,HYD,Andhra Pradesh,India,3/1/2023
+ASST231421,A7S Gary,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Dietary Supplement,No,No,No,No,No,535,JFK,New York,ARN,Stockholm,Sweden,3/1/2023
+ASST231424,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,E-Liquids,No,No,No,No,No,1795,LAX,California,BAH,,Bahrain,3/1/2023
+ASST231432,Luz Atienza,Luz Atienza,Korean Air Cargo,Korean Air Cargo / SFO *,General,Books,No,No,No,No,No,13,SFO,California,BKK,Bangkok,Thailand,3/1/2023
+ASST231433,A7S Nakul,A7S Ariel,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,"Used laptops, tablets",No,No,No,No,No,60,SFO,California,DXB,Al Garhoud,United Arab Emirates,3/1/2023
+ASST231443,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,CASTING SUITE CASE,No,No,No,No,No,124,ORD,Illinois,DEL,Punjab,India,3/2/2023
+ASST231448,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Toles Aluminium 7075
+
+",No,No,No,No,No,5592,DFW,Texas,CMN,Casablanca-Settat,Morocco,3/2/2023
+ASST231453,Lee Krish,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Spare Parts ,No,No,No,No,No,100,JFK,New York,BKK,Bangkok,Thailand,3/2/2023
+ASST231454,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Plastic with case,No,No,No,No,No,100,ATL,Georgia,BOM,Maharashtra,India,3/2/2023
+ASST231455,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Machines for Semiconducto,No,No,No,No,No,204,SFO,California,BLR,Karnataka,India,3/2/2023
+ASST231456,Shaun S.,A7S Gary,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,"COOKIES - non stackable pallet
+ temperature +18c",No,No,No,Yes,No,315,ATL,Georgia,DXB,Al Garhoud,United Arab Emirates,3/2/2023
+ASST231464,Mont I.,A7S Jason,DHL Aviation Americas,DHL Aviation Americas / SFO *,Other,"Epoxy Adhesive,
+Triethylenetetramine Solution",No,No,Yes,No,No,6,JFK,New York,LHE,Punjab,Pakistan,3/2/2023
+ASST231465,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,749.87,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/2/2023
+ASST231466,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,760,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/2/2023
+ASST231468,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,943.89,ATL,Georgia,SGN,Thái Bình,Vietnam,3/2/2023
+ASST231469,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,ATL,Georgia,SGN,Thái Bình,Vietnam,3/2/2023
+ASST231471,Shaun S.,A7S Gary,Air Canada Cargo,Air Canada Cargo/SFO *,General,Testing equipment's,No,No,No,No,No,161,MIA,Florida,BOM,Maharashtra,India,3/2/2023
+ASST231475,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,General,"Total Pieces: 
+7 pallets
+
+Dims:
+1@ 42x42x58”, 
+3@ 45x45x57”, 
+1@ 48x40x56”, 
+1@ 48x40x49”, 
+1@ 48x40x34” 
+Weight: 1955 kgs chargeable and 1392 kgs gross.
+",No,No,No,No,No,1955,SFO,California,RUH,Riyadh,Saudi Arabia,3/2/2023
+ASST231476,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,250,LAX,California,MNL,Metro Manila,Philippines,3/2/2023
+ASST231479,A7S Gary,A7S Bryan,Swiss world cargo,Swiss world cargo / JFK *,General,Jet ski spare parts - Not restricted as per special provision A123,No,No,No,No,No,216,MIA,Florida,MLE,Malé,Maldives,3/3/2023
+ASST231480,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,Turbine parts,No,No,No,No,No,259,DEN,Colorado,HYD,Andhra Pradesh,India,3/3/2023
+ASST231481,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,"Ultrasonic Fetal Monitor with
+Accessories",No,No,No,No,No,16,MIA,Florida,ISB,Punjab,Pakistan,3/3/2023
+ASST231485,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Samples for parts used on Tractors.,No,No,No,No,No,141,ORD,Illinois,DEL,Punjab,India,3/3/2023
+ASST231486,A7S Nakul,A7S Ariel,Mercury world Cargo,Mercury world Cargo,General,"Household Items - Toys, Glassware, Tableware",Yes,No,No,No,No,61.01,MCO,Florida,DXB,Al Garhoud,United Arab Emirates,3/3/2023
+ASST231488,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,2054,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/3/2023
+ASST231498,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Ship Spares,No,No,No,No,No,3342,IAH,Texas,SIN,Changi,Singapore,3/3/2023
+ASST231499,A7S Vito,A7S Sky,Singapore Airlines Cargo,Singapore Airlines Cargo / SFO *,General,Ship Spares,No,No,No,No,No,2726,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,3/3/2023
+ASST231500,A7S Vito,A7S Sky,Singapore Airlines Cargo,Singapore Airlines Cargo / SFO *,General,Ship Spares,No,No,No,No,No,2728,DFW,Texas,DXB,Al Garhoud,United Arab Emirates,3/3/2023
+ASST231502,A7S Gary,A7S Bryan,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,Food Pans,No,No,No,No,No,2346,LAX,California,MNL,Metro Manila,Philippines,3/3/2023
+ASST231506,A7S Vito,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,Other,"Control Unit (Dunker)
+",No,No,No,No,No,100,IAH,Texas,MEX,Mexico,Mexico,3/3/2023
+ASST231507,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,3782,JFK,New York,JED,Mecca,Saudi Arabia,3/3/2023
+ASST231508,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,1589,MCO,Florida,DXB,Al Garhoud,United Arab Emirates,3/3/2023
+ASST231523,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,55,ATL,Georgia,DAR,Dar es Salaam,Tanzania,3/6/2023
+ASST231525,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Cable,No,No,No,No,No,231,IAD,District of Columbia,MAA,Tamil Nadu,India,3/6/2023
+ASST231526,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Spare Parts,No,No,No,No,No,247,JFK,New York,CCU,West Bengal,India,3/6/2023
+ASST231527,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,Ethernet Switch,No,No,No,No,No,417,ORD,Illinois,BLR,Karnataka,India,3/6/2023
+ASST231528,Lee Krish,A7S Rama,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Catalyst V,No,No,No,No,No,23,SFO,California,IST,Adana,Turkey,3/6/2023
+ASST231529,Lee Krish,A7S Rama,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,Aircraft spare parts,No,No,No,No,No,758,LAX,California,HYD,Andhra Pradesh,India,3/6/2023
+ASST231530,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,General Cargo,No,No,No,No,No,104,MSP,Minnesota,BOM,Maharashtra,India,3/6/2023
+ASST231534,A7S Vito,A7S Bryan,British Airways,British Airways/SFO *,General,Shock-Absorbing Nylon Webbing,No,No,No,No,No,268,ORD,Illinois,DXB,Al Garhoud,United Arab Emirates,3/6/2023
+ASST231535,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,10884,JFK,New York,JED,Mecca,Saudi Arabia,3/6/2023
+ASST231539,A7S Vito,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,"Pharmaceutical  - non-stackable cargo.
+Temp:  15°C to 25°C 
+
+",No,No,No,Yes,No,714,CLT,North Carolina,RUH,Riyadh,Saudi Arabia,3/6/2023
+ASST231544,Mont I.,A7S Jason,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Consumer commodity,No,No,Yes,No,No,593,JFK,New York,MLE,Malé,Maldives,3/6/2023
+ASST231546,A7S Gary,A7S Bryan,Oman Air Cargo Inc,Oman Air Cargo Inc,General,Commercial Cooking Equipment - 8419 81,No,No,No,No,No,403,ATL,Georgia,MNL,Metro Manila,Philippines,3/6/2023
+ASST231548,Mont I.,A7S Jason,Saudia Airlines Cargo,Saudia Airlines Cargo / JFK *,Other,"Skincare & Cosmetic Goods
+
+",No,No,No,No,No,2338,JFK,New York,RUH,Riyadh,Saudi Arabia,3/6/2023
+ASST231552,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"PC Equipment
+
+",No,No,No,No,No,449.66,IAD,District of Columbia,EBL,Kurdistan,Iraq,3/6/2023
+ASST231554,Mont I.,A7S Jason,British Airways,British Airways/SFO *,Dangerous Goods,Paint,No,No,Yes,No,No,48.98,LAX,California,BLR,Karnataka,India,3/6/2023
+ASST231567,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"PULLOVER METAL, BRAID & WIRE",No,No,No,No,No,171,DFW,Texas,BLR,Karnataka,India,3/7/2023
+ASST231568,Shaun S.,A7S Ariel,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,"Electro-surgical instruments and appliances
+
+",No,No,No,No,No,384,SFO,California,DMM,Dammam,Saudi Arabia,3/7/2023
+ASST231571,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,Other,IVE Heartsaver First Aid CPR AED Student Workbook,No,No,No,No,No,1288,ATL,Georgia,RUH,Riyadh,Saudi Arabia,3/7/2023
+ASST231573,Lee Krish,A7S Rama,American Airlines Cargo,American Airlines Cargo/ORD *,General,Medical Equipment Parts & Accessories,No,No,No,No,No,199,DEN,Colorado,DOH,Doha,Qatar,3/7/2023
+ASST231574,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"I-RSVP-UF, 1.5-2"" BW BLK 3100 F22 HL",No,No,No,No,No,168,IAH,Texas,SIN,Changi,Singapore,3/7/2023
+ASST231575,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,255,ORD,Illinois,BEY,Beirut,Lebanon,3/7/2023
+ASST231576,Lee Krish,A7S Rama,Swiss world cargo,Swiss world cargo / JFK *,General,"Vitamin Supplements For
+Personal Use",No,No,No,No,No,193,MIA,Florida,MRU,Port Louis District,Mauritius,3/7/2023
+ASST231578,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,filter (General Cargo),No,No,No,No,No,193,IAH,Texas,HYD,Andhra Pradesh,India,3/7/2023
+ASST231579,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,Nickel alloy X750 - Sheet 2D,No,No,No,No,No,163,CVG,Kentucky,DEL,Punjab,India,3/7/2023
+ASST231582,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/7/2023
+ASST231583,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/7/2023
+ASST231584,A7S Vito,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,General,Winch Assy,No,No,No,No,No,45,IAH,Texas,BOM,Maharashtra,India,3/7/2023
+ASST231585,A7S Vito,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,TV camera,No,No,No,No,No,330,DFW,Texas,CAI,Cairo,Egypt,3/7/2023
+ASST231600,A7S Vito,A7S Bryan,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Cosmetics,No,No,No,No,No,136,LAX,California,KWI,Farwaniya,Kuwait,3/7/2023
+ASST231613,Pam F.,A7S Ariel,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,HHG,Yes,No,No,No,No,443.51,LAX,California,SYD,New South Wales,Australia,3/8/2023
+ASST231615,Mont I.,A7S Jason,British Airways,British Airways/SFO *,Other,Upright Exercise Bike,No,No,No,No,No,380,SFO,California,KWI,Farwaniya,Kuwait,3/8/2023
+ASST231616,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,Detergent,No,No,Yes,No,No,45,JFK,New York,DWC,Dubai,United Arab Emirates,3/8/2023
+ASST231617,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,PIZZA LOADER ,No,No,No,No,No,15,SFO,California,BLR,Karnataka,India,3/8/2023
+ASST231620,Shaun S.,A7S Bryan,British Airways,British Airways/SFO *,Other,"SUPPLY OF LIQUID ANALYSER PACKAGE
+AS PER PROFORMA INVOICE
+NO: 015993-01
+DATED 28.10.2022
+
+3@ 48x 40x 46
+FREIGHT COLLECT
+LC NO 1541FLC220531
+",No,No,No,No,No,725,BOS,Massachusetts,BOM,Maharashtra,India,3/8/2023
+ASST231621,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,C63000 NI AL BR ROD - FR,No,No,No,No,No,451,DFW,Texas,HYD,Andhra Pradesh,India,3/8/2023
+ASST231623,Lee Krish,A7S Rama,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,WATER FILTRATION EQUIPMENT,No,No,No,No,No,26.76,SFO,California,MAA,Tamil Nadu,India,3/8/2023
+ASST231624,Shaun S.,A7S Gary,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"Adhesives, Rubber/Polymer,O UN1845 18.20 Kg of Dry Ice on Each Box Special Provision 297 related to carbon dioxide, solid (dry ice) / transmitted by the International Air Transport Association (IATA)",No,No,No,No,No,399,LAX,California,BKK,Bangkok,Thailand,3/8/2023
+ASST231625,Lee Krish,A7S Rama,Silk Way Airlines,Silk Way Airlines / MIA *,General,Spare Parts,No,No,No,No,No,467,SFO,California,IST,Adana,Turkey,3/8/2023
+ASST231626,A7S Gary,A7S Gary,Qatar Airways,Qatar Airways / LAX *,General,"vPS ELIMINATOR SHIELD DRK SMK, PS
+ROGUE SOLID MATTE BLACK XX",No,No,No,No,No,267.44,ORD,Illinois,SGN,Thái Bình,Vietnam,3/8/2023
+ASST231628,Lee Krish,A7S Bryan,Air India,Air India / SFO *,General,Extruder Spare Parts Entek 103MM,No,No,No,No,No,219,ORD,Illinois,BOM,Maharashtra,India,3/8/2023
+ASST231630,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,Other, Motor Equipment’s,No,No,No,No,No,57,ORD,Illinois,DOH,Doha,Qatar,3/8/2023
+ASST231634,Mont I.,A7S Jason,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,Medical devices,No,No,No,No,No,1201,SEA,Washington,RUH,Riyadh,Saudi Arabia,3/8/2023
+ASST231636,A7S Vito,A7S Ariel,Royal Jordanian,Royal Jordanian / JFK,General,Spare Parts,No,No,No,No,No,32,SFO,California,CAI,Cairo,Egypt,3/8/2023
+ASST231640,A7S Gary,A7S Gary,Air Canada Cargo,Air Canada Cargo/SFO *,General,Core Case sets,No,No,No,No,No,205,ORD,Illinois,DEL,Punjab,India,3/8/2023
+ASST231644,Tracy Khuu,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"​Gifts
+",No,No,No,No,No,1012,MIA,Florida,HAN,Hà Nội,Vietnam,3/8/2023
+ASST231645,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Mobile Phones / UN 3481,No,No,No,No,No,408,MIA,Florida,DXB,Al Garhoud,United Arab Emirates,3/8/2023
+ASST231647,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 02pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,715,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/8/2023
+ASST231648,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 03pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1154,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/8/2023
+ASST231649,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,972,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/8/2023
+ASST231650,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/8/2023
+ASST231651,A7S Gary,A7S Gary,Pakistan International Airlines,Pakistan International Airlines,Other,Carpets,No,No,No,No,No,710,JFK,New York,LHE,Punjab,Pakistan,3/8/2023
+ASST231653,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Air Fan Replacement,No,No,No,No,No,354,DFW,Texas,KUL,Selangor,Malaysia,3/8/2023
+ASST231660,Shaun S.,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Insulated Wire/cable Class 70,No,No,No,No,No,100,ATL,Georgia,BLR,Karnataka,India,3/9/2023
+ASST231661,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,Other,"Vsterin SA11 Steraic Acid
+
+",No,No,No,No,No,68,CLE,Ohio,BOM,Maharashtra,India,3/9/2023
+ASST231662,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,"ttlm-4 press montior
+pm4-m installation kit",No,No,No,No,No,9,CLE,Ohio,DEL,Punjab,India,3/9/2023
+ASST231663,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,General,Spare Parts ,No,No,No,No,No,167,ORD,Illinois,FRA,Hessen,Germany,3/9/2023
+ASST231665,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Voice Tracker tm III array Microphone (Part 304)
+USB adapters (Part 102B)
+",No,No,No,No,No,73,BOS,Massachusetts,BOM,Maharashtra,India,3/9/2023
+ASST231666,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,913,MIA,Florida,BEY,Beirut,Lebanon,3/9/2023
+ASST231673,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,458,MSP,Minnesota,DXB,Al Garhoud,United Arab Emirates,3/9/2023
+ASST231674,Lee Krish,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General, UHMW Spooled Film,No,No,No,No,No,62,BOS,Massachusetts,DEL,Punjab,India,3/9/2023
+ASST231677,Lee Krish,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,Other,Hand Tools,No,No,No,No,No,56,BOS,Massachusetts,DEL,Punjab,India,3/9/2023
+ASST231685,Mont I.,A7S Jason,All Nippon Airways ,All Nippon Airways/LAX *,Other,General Cargo,No,No,No,No,No,162,SFO,California,SGN,Thái Bình,Vietnam,3/9/2023
+ASST231687,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Water well Camera,No,No,No,No,No,127,SFO,California,CGK,Banten,Indonesia,3/9/2023
+ASST231690,A7S Vito,A7S Sky,Mercury world Cargo,Mercury world Cargo,General,Essential Oils ,No,No,No,No,No,242,MCO,Florida,DXB,Al Garhoud,United Arab Emirates,3/9/2023
+ASST231695,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,"Environmentally hazardous substance, liquid, n.o.s. (octahydronaphthalen-2-yl)ethanone and Guaiacwood acetate)",No,No,Yes,No,No,215,JFK,New York,CAI,Cairo,Egypt,3/9/2023
+ASST231706,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"Spare parts
+
+",No,No,No,No,No,329,ORD,Illinois,IST,Adana,Turkey,3/10/2023
+ASST231707,A7S Gary,A7S Bryan,British Airways,British Airways/SFO *,General,"Cable, Power Cord",No,No,No,No,No,7,SFO,California,RUH,Riyadh,Saudi Arabia,3/10/2023
+ASST231708,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,"Ductsox, Duratex textile air dispersion system
+
+",No,No,No,No,No,314,IAH,Texas,DEL,Punjab,India,3/10/2023
+ASST231709,A7S Gary,A7S Gary,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,"Welding related parts (Spare parts for welding machine and torches)
+
+",No,No,No,No,No,267,DFW,Texas,JED,Mecca,Saudi Arabia,3/10/2023
+ASST231714,Lee Krish,A7S Sky,Air India,Air India / SFO *,General,General Cargo,No,No,No,No,No,898,LAX,California,HYD,Andhra Pradesh,India,3/10/2023
+ASST231715,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,General,"Medical equipment
+UN3481,ICAO/IATA Packing instruction 967,Section II, batteries installed inside equipment",No,No,No,No,No,215,JFK,New York,BLR,Karnataka,India,3/10/2023
+ASST231717,Lee Krish,A7S Rama,Scandinavian Airlines,Scandinavian Airlines / LAX *,General,Fishing Rods / Fishing Reels/spools,No,No,No,No,No,100,PDX,Oregon,VNO,Vilnius,Lithuania,3/10/2023
+ASST231719,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,1607,JFK,New York,DXB,Al Garhoud,United Arab Emirates,3/10/2023
+ASST231721,A7S BookingDeskAE1,A7S BookingDeskAE1,Cargolux,Cargolux/SFO *,General,Marker Board Panels,No,No,No,No,No,693,ORD,Illinois,BAH,,Bahrain,3/10/2023
+ASST231723,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,1578,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/10/2023
+ASST231725,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"Printer	",No,No,No,No,No,110,DFW,Texas,CAI,Cairo,Egypt,3/10/2023
+ASST231726,Mont I.,A7S Jason,Etihad Airways,Etihad Airways / LAX *,Other,Battery 3496 /  Spl provision A199 / UN 3481,No,No,No,No,No,3,ORD,Illinois,CAI,Cairo,Egypt,3/10/2023
+ASST231737,A7S Gary,A7S Sky,Kuwait Airways,Kuwait Airways,General,Footcare Products,No,No,No,No,No,158,JFK,New York,KWI,Farwaniya,Kuwait,3/10/2023
+ASST231741,Shaun S.,A7S Ariel,British Airways,British Airways/SFO *,Other,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,163,MIA,Florida,MLE,Malé,Maldives,3/13/2023
+ASST231750,Shaun S.,A7S Sky,British Airways,British Airways/SFO *,General,Braid Polyester  - Non Haz,No,No,No,No,No,184,IAH,Texas,BLR,Karnataka,India,3/13/2023
+ASST231752,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Industrial Equipment's,No,No,No,No,No,413,ATL,Georgia,ISB,Punjab,Pakistan,3/13/2023
+ASST231753,Lee Krish,A7S Bryan,American Airlines Cargo,American Airlines Cargo/ORD *,General,Lab Consumable Supplies,No,No,No,No,No,205,PDX,Oregon,DOH,Doha,Qatar,3/13/2023
+ASST231755,A7S Vito,A7S Bryan,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,General cargo,No,No,No,No,No,267,DFW,Texas,CAI,Cairo,Egypt,3/13/2023
+ASST231759,A7S Vito,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"IP Security Cameras, IP Security Recorder",No,No,No,No,No,257,DFW,Texas,CAI,Cairo,Egypt,3/13/2023
+ASST231762,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/13/2023
+ASST231763,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/13/2023
+ASST231764,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,ATL,Georgia,SGN,Thái Bình,Vietnam,3/13/2023
+ASST231765,Tracy Khuu,Luz Atienza,Vietnam Airlines,Vietnam Airlines *,General,"IC Chips over Gigabit
+HS code: 8542.32.0036 ",No,No,No,No,No,300,SFO,California,SGN,Thái Bình,Vietnam,3/13/2023
+ASST231766,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,544,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/13/2023
+ASST231768,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,Acetone ,No,No,Yes,No,No,210,JFK,New York,BKK,Bangkok,Thailand,3/13/2023
+ASST231776,A7S Gary,A7S Bryan,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,PARTS FOR COPELAND DISCUS,No,No,No,No,No,275,DFW,Texas,HKG,Tsuen Wan District,Hong Kong,3/13/2023
+ASST231780,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,FILTER.EXHAUST 18IN SQ,No,No,No,No,No,38,BOS,Massachusetts,BOM,Maharashtra,India,3/14/2023
+ASST231781,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,Other,Non Infectious Tissue Temp: 2-15C,No,No,No,Yes,No,33,ORD,Illinois,RUH,Riyadh,Saudi Arabia,3/14/2023
+ASST231783,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,"Medical Equipment & Accessories (Non Dg)
+",No,No,No,No,No,170,SFO,California,KHI,Sindh,Pakistan,3/14/2023
+ASST231786,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,"Infant Products		",No,No,No,No,No,461,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/14/2023
+ASST231787,Surya Dhamija,A7S BookingDeskAE1,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,MIA,Florida,SGN,Thái Bình,Vietnam,3/14/2023
+ASST231794,A7S Vito,A7S Gary,Air France KLM Martinair Cargo,Air France KLM Martinair Cargo / SFO *,Other,"Diagnostic/ Laboratory Reagents
+Refrigerated 2 – 8 degrees C",No,No,No,Yes,No,118,BOS,Massachusetts,CAI,Cairo,Egypt,3/14/2023
+ASST231797,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,General,E-Liquids,No,No,No,No,No,101.13,LAX,California,MLE,Malé,Maldives,3/14/2023
+ASST231800,A7S Gary,A7S Ariel,Mercury world Cargo,Mercury world Cargo,General,E-Liquids,No,No,No,No,No,1281,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/14/2023
+ASST231803,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,Therapeutics Shoes,No,No,No,No,No,110.12,SEA,Washington,SIN,Changi,Singapore,3/14/2023
+ASST231804,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,1220,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/14/2023
+ASST231805,Mont I.,A7S Jason,Air Canada Cargo,Air Canada Cargo/SFO *,Other,"UN3091 Lithium metal battery
+PI 970 Sec II",No,No,No,No,No,1396,ORD,Illinois,DEL,Punjab,India,3/14/2023
+ASST231806,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General, Spares for Grove Crane,No,No,No,No,No,216,CVG,Kentucky,KTM,Central,Nepal,3/15/2023
+ASST231807,Shaun S.,A7S Sky,Pakistan International Airlines,Pakistan International Airlines,General, Woven Fabric,No,No,No,No,No,314,JFK,New York,LHE,Punjab,Pakistan,3/15/2023
+ASST231808,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Clarke Donaldson Air Filter,No,No,No,No,No,59,SFO,California,KHI,Sindh,Pakistan,3/15/2023
+ASST231812,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,"Waters 2695 with 2996 and column oven ....3 Sets
+Agilent 6890 as shown in pics.....1 Set
+Waters 2487 Detector....1 piece
+Waters Electrochemical Detector...1 piece",No,No,No,No,No,327,BWI,Maryland,BOM,Maharashtra,India,3/15/2023
+ASST231813,Lee Krish,A7S Bryan,Kuwait Airways,Kuwait Airways,General,"non-spillable batteries, not restricted per special provision A67",No,No,No,No,No,464,MSP,Minnesota,KWI,Farwaniya,Kuwait,3/15/2023
+ASST231814,A7S Vito,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,"Vaping Device Contains LITHIUM-ION
+BATTERIES IN COMPLIANCE WITH
+SECTION II PI 967
+UN3481,",No,No,No,No,No,114,ORD,Illinois,DXB,Al Garhoud,United Arab Emirates,3/15/2023
+ASST231817,A7S Vito,A7S Sky,Air India,Air India / SFO *,General,Essential Oils ,No,No,No,No,No,635,ORD,Illinois,DXB,Al Garhoud,United Arab Emirates,3/15/2023
+ASST231819,Lee Krish,A7S Sky,Qatar Airways,Qatar Airways / LAX *,General,Cereve Cleanser ,No,No,No,No,No,663,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/15/2023
+ASST231820,Mont I.,A7S Jason,Egypt Air Cargo,Egypt Air Cargo / JFK *,Other,UN3481  PI970 SEC II,No,No,No,No,No,4095,DFW,Texas,CAI,Cairo,Egypt,3/15/2023
+ASST231825,Shaun S.,A7S Sky,Air India,Air India / SFO *,Other,Flavoring Compound,No,No,No,No,No,188.78,JFK,New York,DEL,Punjab,India,3/15/2023
+ASST231829,Mont I.,A7S Jason,British Airways,British Airways/SFO *,General,Surgical Products,No,No,No,No,No,45,MSP,Minnesota,RUH,Riyadh,Saudi Arabia,3/15/2023
+ASST231830,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/15/2023
+ASST231831,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/15/2023
+ASST231832,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/15/2023
+ASST231833,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/15/2023
+ASST231834,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,General,Sheave & Hutch-Non Stackable,No,No,No,No,No,218,IAH,Texas,DOH,Doha,Qatar,3/16/2023
+ASST231835,Lee Krish,A7S Rama,Qatar Airways,Qatar Airways / LAX *,General,"BRAND NEW CAPITA MACHINERY FOR WASTE WATER TREATMENT PLANT
+(1 set)
+L/C No. 0000222823010632, Dated: 13.02.2023, PI No. MISPL/AEL/04/2023, Dated: 22.01.2023
+IRC No. : BA-147142 (Old), 260326110235119 (New), BIN No. : 000575854-0101, TIN No. : 466291350572, 
+H S Code: 8421.21.93
+",No,No,No,No,No,1655,LAX,California,DAC,Dhaka,Bangladesh,3/16/2023
+ASST231837,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils ,No,No,No,No,No,4243,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/16/2023
+ASST231838,Lee Krish,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Stainless Steel Rod & BAR ,No,No,No,No,No,225,ATL,Georgia,HYD,Andhra Pradesh,India,3/16/2023
+ASST231842,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,LAX,California,SGN,Thái Bình,Vietnam,3/16/2023
+ASST231845,Mont I.,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,Other,Limonenes,No,No,Yes,No,No,189,JFK,New York,CAI,Cairo,Egypt,3/16/2023
+ASST231846,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,Essential Oils,No,No,No,No,No,1565,LAX,California,BAH,,Bahrain,3/16/2023
+ASST231854,Luz Atienza,Luz Atienza,British Airways,British Airways/SFO *,Machinery,Irrigation Equipment,No,No,No,No,No,143,SFO,California,RUH,Riyadh,Saudi Arabia,3/16/2023
+ASST231857,Luz Atienza,Luz Atienza,Air India,Air India / SFO *,General,"Components														",No,No,No,No,No,38,SFO,California,DEL,Punjab,India,3/16/2023
+ASST231861,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,692,MIA,Florida,BEY,Beirut,Lebanon,3/17/2023
+ASST231874,Lee Krish,A7S Rama,Finnair Cargo,Finnair Cargo / LAX *,General,Mud Pump Parts ,No,No,No,No,No,245,IAH,Texas,VNO,Vilnius,Lithuania,3/17/2023
+ASST231877,Lee Krish,A7S Rama,​Air Serbia Cargo,​Air Serbia Cargo/BEG,General,Spare Parts,No,No,No,No,No,65,MCO,Florida,IST,Adana,Turkey,3/17/2023
+ASST231878,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Surgical Disposable,No,No,No,No,No,110,ATL,Georgia,KHI,Sindh,Pakistan,3/17/2023
+ASST231879,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,CLASS 50 MECHANICAL ACTUATOR,No,No,No,No,No,135,ATL,Georgia,HYD,Andhra Pradesh,India,3/17/2023
+ASST231880,Lee Krish,A7S Bryan,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Dietary supplements (Temperature +15 C to +25 C),No,No,No,Yes,No,1000,LAX,California,RUH,Riyadh,Saudi Arabia,3/17/2023
+ASST231881,Lee Krish,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,Used Laptops with batteries UN3481,No,No,No,No,No,236,SFO,California,DXB,Al Garhoud,United Arab Emirates,3/17/2023
+ASST231882,A7S Vito,A7S Bryan,Air India,Air India / SFO *,Machinery,KUSH TERPENE CONE,No,No,No,No,No,608,LAX,California,BOM,Maharashtra,India,3/17/2023
+ASST231884,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"PC Equipment , Auto Spares
+
+
+
+",No,No,No,No,No,414,IAD,District of Columbia,EBL,Kurdistan,Iraq,3/17/2023
+ASST231886,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,"Essential Oils
+
+",No,No,No,No,No,3758,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/17/2023
+ASST231888,A7S Vito,A7S Moe,British Airways,British Airways/SFO *,General,"SIM TO VGARD CAP,SWEATBAND, COTTON TERRY,FRAME,V-GARD,FOR SLOTTED CAPS,VISOR,V-GARD,PC,CLR",No,No,No,No,No,1337,PIT,Pennsylvania,DOH,Doha,Qatar,3/17/2023
+ASST231891,Mont I.,A7S Jason,​Air Serbia Cargo,​Air Serbia Cargo/BEG,Other,"Test equipment
+",No,No,Yes,No,No,63,SFO,California,LCA,Larnaca District,Cyprus,3/17/2023
+ASST231894,Mont I.,A7S Jason,Etihad Airways,Etihad Airways / LAX *,Other,Screen printing ink,No,No,Yes,No,No,29,ORD,Illinois,BLR,Karnataka,India,3/17/2023
+ASST231904,A7S Vito,A7S Sky,Air India,Air India / SFO *,General,Fuel Economizer Parts,No,No,No,No,No,140,JFK,New York,MAA,Tamil Nadu,India,3/17/2023
+ASST231905,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"Fuel Economizer Parts
+
+",No,No,No,No,No,28,JFK,New York,MAA,Tamil Nadu,India,3/17/2023
+ASST231907,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,"Fuel Economizer Parts
+
+",No,No,No,No,No,182,JFK,New York,MAA,Tamil Nadu,India,3/17/2023
+ASST231949,Shaun S.,A7S Sky,Tap Air Portugal Cargo,Tap Air Portugal Cargo / EWR *,General,Laminate ,No,No,No,No,No,1719,CLT,North Carolina,GIG,Rio de Janeiro,Brazil,3/20/2023
+ASST231950,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Bearing Coupling,No,No,No,No,No,143,ORD,Illinois,DMM,Dammam,Saudi Arabia,3/20/2023
+ASST231952,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,Hydrafacial Treatment Pack,No,No,No,No,No,218,LAX,California,DOH,Doha,Qatar,3/20/2023
+ASST231964,A7S Vito,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Safety materials,No,No,No,No,No,907,ATL,Georgia,DOH,Doha,Qatar,3/20/2023
+ASST231965,Luz Atienza,Luz Atienza,Turkish Airlines,Turkish Airlines / JFK*,Other,"Apparel, Footwear, Fashion Accessory, Article ",No,No,No,No,No,265,SFO,California,KUL,Selangor,Malaysia,3/20/2023
+ASST231967,A7S Vito,A7S Sky,Mercury world Cargo,Mercury world Cargo,General,Essential Oils,No,No,No,No,No,2119,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/20/2023
+ASST231968,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,Other,General Cargo,No,No,No,No,No,246,ORD,Illinois,DOH,Doha,Qatar,3/20/2023
+ASST231971,A7S Vito,A7S Bryan,Air India,Air India / SFO *,General,"Mineral Supplement Water				",No,No,No,No,No,4243,SFO,California,DEL,Punjab,India,3/20/2023
+ASST231972,Surya Dhamija,A7S BookingDeskAE1,ITA Airways,ITA Airways,General,Marker Board Panels,No,No,No,No,No,693,ORD,Illinois,MXP,Lombardy,Italy,3/20/2023
+ASST231973,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,GIFTS,No,No,No,No,No,680.27,MIA,Florida,BKK,Bangkok,Thailand,3/20/2023
+ASST231974,A7S Vito,A7S Moe,Kuwait Airways,Kuwait Airways,General,Essential Oils,No,No,No,No,No,100,JFK,New York,CMN,Casablanca-Settat,Morocco,3/20/2023
+ASST231980,Shaun S.,A7S Gary,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"Adhesives, Rubber/Polymer,O UN1845 18.18 Kg of Dry Ice on Each Box Special Provision 297 related to carbon dioxide, solid (dry ice) / transmitted by the International Air Transport Association (IATA)",No,No,No,No,No,108.86,LAX,California,BKK,Bangkok,Thailand,3/21/2023
+ASST231981,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Engineering Goods,No,No,No,No,No,196,DFW,Texas,BOM,Maharashtra,India,3/21/2023
+ASST231983,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Spare parts,No,No,No,No,No,151,SFO,California,AMM,Amman,Jordan,3/21/2023
+ASST231984,A7S Gary,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,"Medical Adhesive
+",No,No,No,No,No,12,CLT,North Carolina,HAN,Hà Nội,Vietnam,3/21/2023
+ASST231985,Surya Dhamija,A7S BookingDeskAE1,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,MIA,Florida,SGN,Thái Bình,Vietnam,3/21/2023
+ASST231986,Shaun S.,A7S Sky,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,cosmetics,No,No,No,No,No,2022,LAX,California,DMM,Dammam,Saudi Arabia,3/21/2023
+ASST231987,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,"Essential Oils
+
+",No,Yes,No,No,No,6281,PHL,Pennsylvania,DXB,Al Garhoud,United Arab Emirates,3/21/2023
+ASST231990,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,Tableware of Plastic Cups,No,No,No,No,No,173,PHX,Arizona,BAH,,Bahrain,3/21/2023
+ASST231994,Lee Krish,A7S Bryan,Etihad Airways,Etihad Airways / LAX *,General,Polarimeter System Model: DIAS-1600 with standard accessories,No,No,No,No,No,62,JFK,New York,BOM,Maharashtra,India,3/21/2023
+ASST232003,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,General,"E-liquid
+",No,No,No,No,No,1798,LAX,California,KWI,Farwaniya,Kuwait,3/21/2023
+ASST232004,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/21/2023
+ASST232005,Surya Dhamija,A7S Booking AE,Qatar Airways,Qatar Airways / LAX *,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/21/2023
+ASST232006,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,LAX,California,SGN,Thái Bình,Vietnam,3/21/2023
+ASST232007,A7S Vito,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Spare Parts,No,No,No,No,No,918,LAX,California,TBS,Tbilisi,Georgia,3/21/2023
+ASST232019,Lee Krish,A7S Rama,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,"Fep 100 Compound W/ 15% Barium Sulfate
+",No,No,No,No,No,100,JFK,New York,RUH,Riyadh,Saudi Arabia,3/22/2023
+ASST232020,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Valves,No,No,No,No,No,231,ORD,Illinois,BOM,Maharashtra,India,3/22/2023
+ASST232021,Shaun S.,A7S Moe,Air India,Air India / SFO *,General,Zeiss NC4 Microscope,No,No,No,No,No,472,JFK,New York,BOM,Maharashtra,India,3/22/2023
+ASST232023,Lee Krish,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,CHILLER 1/2HP 200-240/50 TP PSC,No,No,No,No,No,77,ORD,Illinois,BKK,Bangkok,Thailand,3/22/2023
+ASST232026,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,5303,JFK,New York,JED,Mecca,Saudi Arabia,3/22/2023
+ASST232027,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Transformers & Relays,No,No,No,No,No,278,ATL,Georgia,MAA,Tamil Nadu,India,3/22/2023
+ASST232028,Shaun S.,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Filter Housing Cover,No,No,No,No,No,45,SFO,California,KHI,Sindh,Pakistan,3/22/2023
+ASST232031,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,"Ceramic Heads
+",No,No,No,No,No,14,DEN,Colorado,BOM,Maharashtra,India,3/22/2023
+ASST232032,Mont I.,A7S Jason,Silk Way Airlines,Silk Way Airlines / MIA *,Other,Corrosive Liquids,No,No,Yes,No,No,500,JFK,New York,DXB,Al Garhoud,United Arab Emirates,3/22/2023
+ASST232037,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/22/2023
+ASST232038,Surya Dhamija,A7S BookingDeskAE1,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,General,Medical Disposables,No,No,No,No,No,420,DFW,Texas,DMM,Dammam,Saudi Arabia,3/22/2023
+ASST232039,A7S Vito,A7S Bryan,Air India,Air India / SFO *,General,"Mineral Supplement Water				",No,No,No,No,No,2829,SFO,California,DEL,Punjab,India,3/22/2023
+ASST232041,A7S Vito,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,MEDICAL CONSUMABLES,No,No,No,No,No,315,MIA,Florida,DXB,Al Garhoud,United Arab Emirates,3/22/2023
+ASST232042,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/22/2023
+ASST232043,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/22/2023
+ASST232044,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/22/2023
+ASST232045,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,"Electronic Equipment 04pcs LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II PI 967. BAGS, SHOES, HOME ACCESSORIES",No,No,No,No,No,1115,IAD,District of Columbia,ISU,Kurdistan,Iraq,3/22/2023
+ASST232046,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Flexible Coupling Element,No,No,No,No,No,115,DFW,Texas,SIN,Changi,Singapore,3/22/2023
+ASST232047,A7S Gary,A7S Gary,Air Canada Cargo,Air Canada Cargo/SFO *,Other,"V.s Nitrifiers , V.sassimilators & Vs Rebuild",No,No,No,Yes,No,151,ORD,Illinois,DEL,Punjab,India,3/22/2023
+ASST232048,A7S Gary,A7S Bryan,British Airways,British Airways/SFO *,General,Essential Oil,No,No,No,No,No,20.41,LAX,California,MLE,Malé,Maldives,3/22/2023
+ASST232051,Ann K.,A7S Ariel,Etihad Airways,Etihad Airways / LAX *,General,"Single Station Micro Controller
+ Pneumatic Flow Integrator",No,No,No,No,No,26,ORD,Illinois,SIN,Changi,Singapore,3/23/2023
+ASST232057,Shaun S.,A7S Gary,Turkish Airlines,Turkish Airlines / JFK*,General,Gasket,No,No,No,No,No,189,CLT,North Carolina,BKK,Bangkok,Thailand,3/23/2023
+ASST232064,Shaun S.,A7S Ariel,All Nippon Airways ,All Nippon Airways/LAX *,General,Broadcasting equipment – RF Systems,No,No,No,No,No,3381,JFK,New York,MNL,Metro Manila,Philippines,3/23/2023
+ASST232066,Shaun S.,A7S Moe,GULF AIR,GULF AIR / JFK *,General,Broadcasting equipment – Patch Panel,No,No,No,No,No,100,BOS,Massachusetts,MNL,Metro Manila,Philippines,3/23/2023
+ASST232067,Shaun S.,A7S Sky,China Airlines Cargo,China Airlines Cargo / SFO *,General,Broadcasting equipment – Antennas / AFMs,No,No,No,No,No,7178,JFK,New York,MNL,Metro Manila,Philippines,3/23/2023
+ASST232068,Shaun S.,A7S Jason,GULF AIR,GULF AIR / JFK *,General,Broadcasting equipment – Filters,No,No,No,No,No,906,BOS,Massachusetts,MNL,Metro Manila,Philippines,3/23/2023
+ASST232069,Shaun S.,A7S Bryan,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,Broadcasting equipment – Patch Panels,No,No,No,No,No,214,BOS,Massachusetts,MNL,Metro Manila,Philippines,3/23/2023
+ASST232072,Lee Krish,A7S Bryan,Air India,Air India / SFO *,General,Analyser of Incinerator Package,No,No,No,No,No,378,LAX,California,BOM,Maharashtra,India,3/23/2023
+ASST232073,Shaun S.,A7S Moe,British Airways,British Airways/SFO *,General,General Cargo,No,No,No,No,No,118,SLC,Utah,RUH,Riyadh,Saudi Arabia,3/23/2023
+ASST232075,Lee Krish,A7S Moe,Etihad Airways,Etihad Airways / LAX *,General,"Personal Video Player
+Video Projector Assembly",No,No,No,No,No,210,DFW,Texas,LHE,Punjab,Pakistan,3/23/2023
+ASST232076,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,Other,"350 DEGREE ADHESIVE FILM-
+HENKEL EA 7000",No,No,No,No,No,8,SEA,Washington,BOM,Maharashtra,India,3/23/2023
+ASST232077,Lee Krish,A7S Jason,Vietnam Airlines,Vietnam Airlines *,General,Medical Supply (Stents),No,No,No,No,No,772,SFO,California,HAN,Hà Nội,Vietnam,3/23/2023
+ASST232078,A7S Gary,A7S Ariel,Etihad Airways,Etihad Airways / LAX *,Other,Non-sterile instruments for Spinal Surgery,No,No,No,No,No,25,PHL,Pennsylvania,HAN,Hà Nội,Vietnam,3/23/2023
+ASST232091,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/23/2023
+ASST232092,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,ATL,Georgia,SGN,Thái Bình,Vietnam,3/23/2023
+ASST232093,Tracy Khuu,A7S Jason,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"Led lights, signaling equipment.",No,No,No,No,No,100,SFO,California,SGN,Thái Bình,Vietnam,3/23/2023
+ASST232095,Mont I.,A7S Jason,Lufthansa Cargo,Lufthansa Cargo / JFK *,Other,Mercury Contained In Manufactured Articles / UN3506,No,No,Yes,No,No,5,JFK,New York,IST,Adana,Turkey,3/23/2023
+ASST232106,Lee Krish,A7S Moe,Finnair Cargo,Finnair Cargo / LAX *,General,Portable MP3 Player,No,No,No,No,No,100,LAX,California,WAW,Włochy,Poland,3/24/2023
+ASST232108,Lee Krish,A7S Bryan,British Airways,British Airways/SFO *,General,Engineering Goods.,No,No,No,No,No,464,LAX,California,BOM,Maharashtra,India,3/24/2023
+ASST232109,Lee Krish,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,148,ORD,Illinois,MAA,Tamil Nadu,India,3/24/2023
+ASST232115,A7S Vito,A7S Ariel,Air Canada Cargo,Air Canada Cargo/SFO *,General,Microtome Blades,No,No,No,No,No,19,CLE,Ohio,DEL,Punjab,India,3/24/2023
+ASST232123,A7S Vito,A7S Sky,Qatar Airways,Qatar Airways / LAX *,General,TINTIN AND DOG,No,No,No,No,No,1375,LAX,California,DEL,Punjab,India,3/24/2023
+ASST232124,Mont I.,A7S Jason,Air India,Air India / SFO *,General,General/ Non-Hazardous,No,No,No,No,No,142,ORD,Illinois,BOM,Maharashtra,India,3/24/2023
+ASST232128,Shaun S.,Shaun S.,Turkish Airlines,Turkish Airlines / JFK*,General,"Laptops, Computer Accessories & Peripherals and UN3481 ION Battery (LITHIUM-ION BATTERIES IN COMPLIANCE WITH SECTION II OF PI 967)",No,No,No,No,No,384,MIA,Florida,BEY,Beirut,Lebanon,3/27/2023
+ASST232130,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,General,Hokkah Flavors / Essential Oil,No,No,No,No,No,243,LAX,California,EBL,Kurdistan,Iraq,3/27/2023
+ASST232131,Lee Krish,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Current Transformers,No,No,No,No,No,1324,ATL,Georgia,MAA,Tamil Nadu,India,3/27/2023
+ASST232132,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,General,Fashion Accessories,No,No,No,No,No,1458,MIA,Florida,BOM,Maharashtra,India,3/27/2023
+ASST232133,Shaun S.,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Pumps Fitted Or Designed  To be Fitted with measuring Device ,No,No,No,No,No,500,JFK,New York,DXB,Al Garhoud,United Arab Emirates,3/27/2023
+ASST232134,Lee Krish,A7S Nav,British Airways,British Airways/SFO *,General,Spare Parts,No,No,No,No,No,770,ORD,Illinois,BOM,Maharashtra,India,3/27/2023
+ASST232139,Mont I.,A7S Jason,Cargolux,Cargolux/SFO *,General,"Medical devices
+
+",No,No,No,No,No,7488,SEA,Washington,RUH,Riyadh,Saudi Arabia,3/27/2023
+ASST232140,Lee Krish,A7S Bryan,Air Canada Cargo,Air Canada Cargo/SFO *,General,3-way outdoor speaker BLACK,No,No,No,No,No,300,SEA,Washington,DXB,Al Garhoud,United Arab Emirates,3/27/2023
+ASST232141,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/27/2023
+ASST232146,A7S Vito,A7S Bryan,Royal Jordanian,Royal Jordanian / JFK,General,Spare Parts For Machinery,No,No,No,No,No,426,JFK,New York,CAI,Cairo,Egypt,3/27/2023
+ASST232149,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,General,Essential Oils,No,No,No,No,No,1175,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/27/2023
+ASST232151,A7S Gary,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,Other,"E-Liquids
+
+",No,No,No,No,No,453,LAX,California,AMM,Amman,Jordan,3/27/2023
+ASST232157,Mont I.,A7S Ariel,Emirates Sky Cargo,Emirates Sky Cargo / SFO *,Other,Fire Release Panel Conventional Type,No,No,No,No,No,509,PHL,Pennsylvania,JED,Mecca,Saudi Arabia,3/27/2023
+ASST232180,Shaun S.,A7S Moe,Turkish Airlines,Turkish Airlines / JFK*,Other,Shock Mount // Non DG Shipment,No,No,No,No,No,100,LAX,California,KHI,Sindh,Pakistan,3/28/2023
+ASST232181,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,Fire Alarm parts,No,No,No,No,No,206,BOS,Massachusetts,DOH,Doha,Qatar,3/28/2023
+ASST232182,Lee Krish,A7S Rama,Finnair Cargo,Finnair Cargo / LAX *,General,Spare parts ,No,No,No,No,No,182,ORD,Illinois,VNO,Vilnius,Lithuania,3/28/2023
+ASST232183,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,BrightSign Digital Signage Media Players,No,No,No,No,No,156,SFO,California,BLR,Karnataka,India,3/28/2023
+ASST232185,Shaun S.,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"Laser Engraver Cutting Machine  - Personal Effect
+",No,No,No,No,No,275,ORD,Illinois,DMM,Dammam,Saudi Arabia,3/28/2023
+ASST232186,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Essential Oils,No,No,No,No,No,878,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,3/28/2023
+ASST232187,Lee Krish,A7S Jason,Air India,Air India / SFO *,General,Varistors,No,No,No,No,No,363,JFK,New York,HYD,Andhra Pradesh,India,3/28/2023
+ASST232190,Mont I.,A7S Jason,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Medical supplies,No,No,No,No,No,457,DTW,Michigan,RUH,Riyadh,Saudi Arabia,3/28/2023
+ASST232191,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,General,Tabs ,No,No,No,No,No,1331,IAH,Texas,DXB,Al Garhoud,United Arab Emirates,3/28/2023
+ASST232200,A7S Vito,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,Essential Oils,No,No,No,No,No,545,IAD,District of Columbia,DXB,Al Garhoud,United Arab Emirates,3/28/2023
+ASST232202,A7S Vito,A7S Sky,British Airways,British Airways/SFO *,Other,Essential Oils,No,No,No,No,No,3036,LAX,California,DXB,Al Garhoud,United Arab Emirates,3/28/2023
+ASST232218,Shaun S.,A7S Nav,Air India,Air India / SFO *,General,"COMPOUNDS, FLAVORING NOl LIQUID",No,No,No,No,No,254,JFK,New York,BOM,Maharashtra,India,3/29/2023
+ASST232221,Shaun S.,A7S Rama,Turkish Airlines,Turkish Airlines / JFK*,General,Detector Machine Spare Parts,No,No,No,No,No,28,MIA,Florida,KHI,Sindh,Pakistan,3/29/2023
+ASST232222,Lee Krish,A7S Jason,Turkish Airlines,Turkish Airlines / JFK*,General,General Cargo,No,No,No,No,No,224,DFW,Texas,HYD,Andhra Pradesh,India,3/29/2023
+ASST232223,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,"Surgical Laser Fiber
+
+",No,No,No,No,No,13,PHX,Arizona,BOM,Maharashtra,India,3/29/2023
+ASST232224,Shaun S.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,General,Instruments,No,No,No,No,No,18,LAX,California,LHE,Punjab,Pakistan,3/29/2023
+ASST232226,Lee Krish,A7S Rama,Etihad Airways,Etihad Airways / LAX *,Other,Non Infectious Tissue / Maintain Temperature + 2 to + 15 °C,No,No,No,Yes,No,37,ORD,Illinois,RUH,Riyadh,Saudi Arabia,3/29/2023
+ASST232227,Lee Krish,A7S Rama,Lufthansa Cargo,Lufthansa Cargo / JFK *,General,"Adhesion Barrier Gel / 
+Under controlled temperature up to 15 °C ",No,No,No,Yes,No,30,LAX,California,RUH,Riyadh,Saudi Arabia,3/29/2023
+ASST232229,A7S Gary,A7S Ariel,Kuwait Airways,Kuwait Airways,General,Cosmetic,No,No,No,No,No,4822,JFK,New York,JED,Mecca,Saudi Arabia,3/29/2023
+ASST232231,Surya Dhamija,A7S BookingDeskAE1,China Airlines Cargo,China Airlines Cargo / SFO *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,MIA,Florida,SGN,Thái Bình,Vietnam,3/29/2023
+ASST232232,Surya Dhamija,A7S BookingDeskAE1,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,LAX,California,SGN,Thái Bình,Vietnam,3/29/2023
+ASST232233,A7S Vito,A7S Bryan,Air India,Air India / SFO *,Other,"Ci64 d:8° Handheld Dual
+Imatch Pro Upgr Propal -
+V10
+Np3 Benchtop 8 Tile Set
+",No,No,No,No,No,11,ORD,Illinois,MAA,Tamil Nadu,India,3/29/2023
+ASST232235,A7S Vito,A7S Nav,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,Hydraulic Fluid Power Pump ,No,No,No,No,No,192,LAX,California,CGK,Banten,Indonesia,3/29/2023
+ASST232238,A7S Gary,A7S Bryan,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,Lifeboat spare parts,No,No,No,No,No,52,LAX,California,KUL,Selangor,Malaysia,3/29/2023
+ASST232239,A7S Gary,A7S Bryan,Polar Air Cargo Worldwide Inc *,Polar Air Cargo Worldwide Inc / JFK *,General,5449/12B-M-9-A-9 1 QDJ BUSHING 70MM BORE 20MM KEYWAY H-2.949,No,No,No,No,No,199,ORD,Illinois,KUL,Selangor,Malaysia,3/29/2023
+ASST232240,Mont I.,A7S Jason,China Airlines Cargo,China Airlines Cargo / SFO *,General,"SLIDE WHITE APEX SUPERIOR ADHESIVE
+
+",No,No,No,No,No,114,ORD,Illinois,CGK,Banten,Indonesia,3/29/2023
+ASST232241,A7S Gary,A7S Ariel,Philippine Airlines Cargo,Philippine Airlines Cargo/MIA *,General,"HANDBAGS, DRESSES. PANTS/SHORTS, SHOES, WOMENS, SANDALS, SHIRTS, WALLETS, ACCESSORIES",No,No,No,No,No,136.1,LAX,California,MNL,Metro Manila,Philippines,3/29/2023
+ASST232256,Lee Krish,A7S Rama,Air Canada Cargo,Air Canada Cargo/SFO *,General,VuPad B-Scan / A-Scan System,No,No,No,No,No,60,JFK,New York,CMN,Casablanca-Settat,Morocco,3/30/2023
+ASST232257,Lee Krish,A7S Rama,British Airways,British Airways/SFO *,General,General cargo,No,No,No,No,No,324,LAX,California,BLR,Karnataka,India,3/30/2023
+ASST232259,Lee Krish,A7S Rama,Air India,Air India / SFO *,General,Retractor Instruments,No,No,No,No,No,48,JFK,New York,MAA,Tamil Nadu,India,3/30/2023
+ASST232266,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,IAD,District of Columbia,SGN,Thái Bình,Vietnam,3/30/2023
+ASST232267,Surya Dhamija,A7S BookingDeskAE1,Qatar Airways,Qatar Airways / LAX *,Other,"GROCERIES PRODUCTS
+
+// CARGO TRANSIT VIA HO CHI MINH
+CITY AIRPORT TO CAMBODIA BY
+TRUST BY CONSIGNEE’S AT CARGO’S
+COST AND RISK //
+
+NO EEI SEC. 30.37 (A)
+
+LITHIUM ION BATTERIES IN
+COMPLIANCE WITH SECTION II OF PI
+967
+
+SFO.C.12.27.2017.037
+CARGO SCREENED AT 100%",No,No,No,No,No,750,ATL,Georgia,SGN,Thái Bình,Vietnam,3/30/2023
+ASST232268,A7S Vito,A7S Sky,Egypt Air Cargo,Egypt Air Cargo / JFK *,General,Banding Tape ,No,No,No,No,No,233,PIT,Pennsylvania,CAI,Cairo,Egypt,3/30/2023
+ASST232269,Surya Dhamija,A7S Vito,Turkish Airlines,Turkish Airlines / JFK*,Other,Speed Humb Building Materials,No,No,No,No,No,435,IAD,District of Columbia,EBL,Kurdistan,Iraq,3/30/2023
+ASST232274,Pravin R.,A7S Ariel,Turkish Airlines,Turkish Airlines / JFK*,Other,Clothes & Bicycle,No,Yes,No,No,No,162,ATL,Georgia,BEG,,Serbia,3/30/2023
+ASST232276,A7S Gary,A7S Ariel,British Airways,British Airways/SFO *,General,Fuel pump/Lens Clear Coat/Screws/Switches,No,No,No,No,No,14.96,IAH,Texas,MLE,Malé,Maldives,3/30/2023
+ASST232279,Tracy Khuu,A7S Gary,All Nippon Airways ,All Nippon Airways/LAX *,General,AKTA FPLC,No,No,No,No,No,252,SFO,California,PEK,Beijing Municipality,China,3/30/2023
+ASST232282,A7S Gary,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,"Spear Grapple
+
+",No,No,No,No,No,100,IAH,Texas,KUL,Selangor,Malaysia,3/30/2023
+ASST232293,Lee Krish,A7S Bryan,Turkish Airlines,Turkish Airlines / JFK*,General,Element Assembly,No,No,No,No,No,180,IAH,Texas,BOM,Maharashtra,India,3/31/2023
+ASST232294,Lee Krish,A7S Bryan,Air India,Air India / SFO *,General,FILTER-EXHAUST,No,No,No,No,No,45,JFK,New York,BOM,Maharashtra,India,3/31/2023
+ASST232295,Lee Krish,A7S Jason,British Airways,British Airways/SFO *,General,Crystal Bio Equipment,No,No,No,No,No,19,DEN,Colorado,BLR,Karnataka,India,3/31/2023
+ASST232296,A7S Gary,A7S Sky,British Airways,British Airways/SFO *,Other,E-Liquids,No,No,No,No,No,2004.54,LAX,California,BAH,,Bahrain,3/31/2023
+ASST232297,Lee Krish,A7S Bryan,Finnair Cargo,Finnair Cargo / LAX *,General,Hydraguide ross/ TRW steering control units,No,No,No,No,No,138,ORD,Illinois,VNO,Vilnius,Lithuania,3/31/2023
+ASST232298,A7S Gary,A7S Sky,Turkish Airlines,Turkish Airlines / JFK*,General,"E-liquid
+",No,No,No,No,No,2782.31,LAX,California,KWI,Farwaniya,Kuwait,3/31/2023
+ASST232300,Surya Dhamija,A7S Booking AE,Turkish Airlines,Turkish Airlines / JFK*,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/31/2023
+ASST232302,Surya Dhamija,A7S Booking AE,Turkish Airlines,Turkish Airlines / JFK*,Other,Live Animals,No,No,No,No,No,88.44,MIA,Florida,DOH,Doha,Qatar,3/31/2023
+ASST232304,Rick M.,A7S Bryan,Air India,Air India / SFO *,Other,Pizza Loader ,No,No,No,No,No,63.72,SFO,California,BLR,Karnataka,India,3/31/2023
