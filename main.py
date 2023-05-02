@@ -15,8 +15,6 @@ df['Crea'] = pd.to_datetime(df['Crea'])
 distintYear = df['Crea'].dt.year.unique()
 destinationCountry=df["Destination country"].unique()
 
-
-
 #--SIDEBAR FOR FILTER
 st.sidebar.header("Please Filter Here:")
 destinationCountry = st.sidebar.multiselect(
