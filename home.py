@@ -7,6 +7,8 @@ import time
 from streamlit_extras.metric_cards import style_metric_cards
 st.set_option('deprecation.showPyplotGlobalUse', False)
 import plotly.graph_objs as go
+import datetime
+from datetime import timedelta
 
 st.set_page_config(page_title="AIR 7 SEAS Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
 st.header("Volume By Month")
@@ -16,62 +18,82 @@ with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
 
 class AirExportVolumeDashboard:
+
     def __init__(self, data_path):
         self.data_path = data_path
         self.df = self.load_data()
-        self.filters = self.setup_filters()
+        print("this method excecited")
+        #self.filters = self.setup_filters()
 
     def load_data(self):
         df = pd.read_csv(self.data_path)
         df['createdDate'] = pd.to_datetime(df['createdDate'])
         df['year'] = df['createdDate'].dt.year
         df['month'] = df['createdDate'].dt.month
+        df['date'] = df['createdDate'].dt.date
         df= df.query('year != 2020')
+
         return df
 
-    def setup_filters(self):
-        distintYear = self.df['year'].unique()
-        destinationCountry = self.df["Destination country"].unique()
-        distintAirline = self.df["Carrier legalName"].unique()
-        dtCountry = st.sidebar.multiselect(
-            "Select the country:",
-            options=destinationCountry
-        )
-        year = st.sidebar.selectbox(
-            "select the year:",
-            options=distintYear
-        )
+#     def setup_filters(self):
+#         distintYear = self.df['year'].unique()
+#         destinationCountry = self.df["Destination country"].unique()
+#         distintAirline = self.df["Carrier legalName"].unique()
 
-        airline = st.sidebar.multiselect(
-            "Select the airline", 
-            options = distintAirline,
-            placeholder= "Choose an option"
-            )
-        return dtCountry, year,airline
+#         dtCountry = st.sidebar.multiselect(
+#             "Select the country:",
+#             options=destinationCountry
+#         )
+#         year = st.sidebar.selectbox(
+#             "select the year:",
+#             options=distintYear
+#         )
 
-    def filter_data(self):
-        if self.filters[0]:
-            df_selection = self.df.query("`Destination country` == @self.filters[0]")
-        else:
-            df_selection = self.df.copy()
-        return df_selection
+#         airline = st.sidebar.multiselect(
+#             "Select the airline", 
+#             options = distintAirline,
+#             placeholder= "Choose an option"
+#             )
+#         return dtCountry, year,airline
 
-    def calculate_metrics(self, df_selection):
-        sumOfVolume = df_selection["Considerable Charging Unit"].sum()
+#     def filter_data(self):
+#         # Check if any filter has selections
+#         if all(filter(None, setup_filters)):  # Check if all filters have values
+#             df_selection = self.df.query(f"Destination country == '{dtCountry}' & year == {year} & Carrier legalName == '{airline}'")
+#         else:
+#   # Handle the case where no filters are selected (optional)
+#             df_selection = self.df.copy()  # Use the original data
+
+#         return df_selection
+
+    def calculate_metrics(self):
+        
+        
+        enddate = max(self.df["date"])
+        currentyear = enddate.year
+        startdate = min(self.df.query("year == @currentyear")["date"])
+        endDate_py = enddate -timedelta(days=366)
+        startdate_py = startdate - timedelta(days=365)
+        metric_df = self.df.query("date >= @startdate and date <= @enddate")
+        metric_df_PY = self.df.query("date >= @startdate_py and date <= @endDate_py")
+        sumOfVolume = metric_df["Considerable Charging Unit"].sum()
+        #sumOfVolume = df.query("year" == datetime.datetime.now().year)["Considerable Charging Unit"].sum()
         sumOfVolumeinTonn = sumOfVolume/1000
-        return sumOfVolume,sumOfVolumeinTonn
+        sumOfVolume_py = metric_df_PY["Considerable Charging Unit"].sum()
+        sumOfVolumeinTonn_py = sumOfVolume_py/1000
+        return sumOfVolume,sumOfVolumeinTonn,sumOfVolume_py,sumOfVolumeinTonn_py
 
-    def prepare_country_data(self, df_selection):
-        groupbycounrty = pd.DataFrame(df_selection.groupby("Destination country").sum("Considerable Charging Unit"))
-        countrydata = groupbycounrty.sort_values("Considerable Charging Unit", ascending=False)
-        return countrydata.round(2) if self.filters[0] else countrydata
+    # def prepare_country_data(self, df):
+    #     groupbycounrty = pd.DataFrame(df.groupby("Destination country").sum("Considerable Charging Unit"))
+    #     countrydata = groupbycounrty.sort_values("Considerable Charging Unit", ascending=False)
+    #     return countrydata.round(2) if self.filters[0] else countrydata
 
-    def prepare_monthly_data(self, df_selection):
+    def prepare_monthly_data(self, df):
          # Use month name for readability
         month_map = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
               7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}
         #Monthly table with Change
-        df_table = df_selection.groupby([df_selection['month'], df_selection['year']])['Considerable Charging Unit'].sum().unstack()
+        df_table = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().unstack()
         yoy_monthly_change = round((df_table / df_table.shift(1, axis=1) - 1) * 100,0)
         for i in range(1, len(yoy_monthly_change.columns)):  # Iterate through year difference columns (excluding the first)
             year = yoy_monthly_change.columns[i]
@@ -82,7 +104,7 @@ class AirExportVolumeDashboard:
         df_table.index = month_names_table
 
         #Monthly_Chart
-        df_chart = df_selection.groupby([df_selection['month'], df_selection['year']])['Considerable Charging Unit'].sum().reset_index("year")
+        df_chart = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().reset_index("year")
         
         month_names_chart = df_chart.index.get_level_values('month').map(month_map)
         df_chart.index = month_names_chart
@@ -111,21 +133,26 @@ class AirExportVolumeDashboard:
         return fig
 
     def render_dashboard(self):
-        df_selection = self.filter_data()
-        sumOfVolume, sumOfVolumeinTonn = self.calculate_metrics(df_selection)
-        countrydata = self.prepare_country_data(df_selection)
-        df_table, df_chart = self.prepare_monthly_data(self.df.copy())  # Avoid modifying original data
+        #df_selection = self.filter_data()
+        sumOfVolume,sumOfVolumeinTonn,sumOfVolume_py,sumOfVolumeinTonn_py = self.calculate_metrics()
+        #countrydata = self.prepare_country_data(df_selection)
+        df_table, df_chart = self.prepare_monthly_data(self.df)  # Avoid modifying original data
         fig = self.create_visualization(df_chart)
         col1,col2=st.columns(2,gap="small")
-        with col1:
+        #with col1:
             #st.metric(label="Total Volume in Kgs", value=round(sumOfVolume, 1), delta=None)
             #st.info('Sum Investment',icon="💰")
-            st.metric(label="Total Volume in Kgs",value=f"{round(sumOfVolume, 1):,.0f} KGS")
-        with col2:
-            #st.metric(label="Total Volume in Tonns", value=round(sumOfVolumeinTonn, 1), delta=None)
-            st.metric(label="Total Volume in Tonns",value=f"{round(sumOfVolume, 1)/1000:,.0f} TONNS")
+        st.sidebar.metric(
+            label="Total Volume in Kgs",
+            value=f"{round(sumOfVolume, 1):,.0f} KGS",
+            delta=f"{round(((sumOfVolume-sumOfVolume_py)/sumOfVolume_py)*100,0):,.0f} % "
+        )
 
-        st.dataframe(countrydata)
+        #with col2:
+            #st.metric(label="Total Volume in Tonns", value=round(sumOfVolumeinTonn, 1), delta=None)
+        st.sidebar.metric(label="Total Volume in Tonns",value=f"{round(sumOfVolume, 1)/1000:,.0f} TONNS",delta = round(sumOfVolumeinTonn_py,1))
+
+        #st.dataframe(countrydata)
         st.dataframe(df_table)
         st.dataframe(df_chart)
         st.plotly_chart(fig)
