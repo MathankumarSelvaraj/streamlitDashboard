@@ -12,7 +12,7 @@ import datetime
 
 
 
-st.set_page_config(page_title="AIR 7 SEAS Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
+st.set_page_config(page_title=" Air Volume Dashboard", page_icon=":bar_chart:", layout="wide")
 st.header("Volume By Month")
 
 df = pd.read_csv(r'D:\Dashboard\Steamlitworks\airExportVolumeDashboard\datasets\airExportVolume2023.csv')
