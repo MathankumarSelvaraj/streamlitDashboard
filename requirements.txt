@@ -6,8 +6,6 @@ datetime
 numpy
 matplotlib
 streamlit-option-menu
-numerize.numerize
-plotly.graph_objects
-streamlit_extras.metric_cards
-time
+numerize
+
 
