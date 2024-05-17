@@ -4,11 +4,12 @@ import pandas as pd
 from streamlit_option_menu import option_menu
 from numerize.numerize import numerize
 import time
-from streamlit_extras.metric_cards import style_metric_cards
-st.set_option('deprecation.showPyplotGlobalUse', False)
-import plotly.graph_objs as go
+#from streamlit_extras.metric_cards import style_metric_cards
+#st.set_option('deprecation.showPyplotGlobalUse', False)
+#import plotly.graph_objs as go
 import datetime
 from datetime import timedelta
+import plotly.graph_objects as go
 
 st.set_page_config(page_title="AIR 7 SEAS Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
 st.header("Volume By Month")
@@ -110,6 +111,24 @@ class AirExportVolumeDashboard:
         df_chart.index = month_names_chart
         df_chart = pd.DataFrame(df_chart)
 
+      
+
+# Assuming you have already executed the provided code snippet to prepare df_table and month_names_table
+
+# Create a Plotly table
+#         fig2 = go.Figure(data=[go.Table(
+#         header=dict(values=['Month'] + df_table.columns.tolist(), fill_color='lightblue', align='center'),
+#         cells=dict(values=[month_names_table] + [df_table[col] for col in df_table.columns],
+#                fill_color='white', align='center'))
+#                 ])
+
+# # Update table layout
+#         fig2.update_layout(title='Year-over-Year Monthly Changes',
+#                   margin=dict(l=20, r=20, t=40, b=20),
+#                   height=600)
+
+        
+
         return df_table.fillna(0),df_chart
 
     def create_visualization(self, df_chart):
@@ -129,6 +148,8 @@ class AirExportVolumeDashboard:
         
         fig.update_yaxes(title_text="Volume in Kgs")
         #fig.update_xaxes(title_text=" ")
+
+        
     
         return fig
 
@@ -138,6 +159,7 @@ class AirExportVolumeDashboard:
         #countrydata = self.prepare_country_data(df_selection)
         df_table, df_chart = self.prepare_monthly_data(self.df)  # Avoid modifying original data
         fig = self.create_visualization(df_chart)
+        
         col1,col2=st.columns(2,gap="small")
         #with col1:
             #st.metric(label="Total Volume in Kgs", value=round(sumOfVolume, 1), delta=None)
@@ -150,16 +172,25 @@ class AirExportVolumeDashboard:
 
         #with col2:
             #st.metric(label="Total Volume in Tonns", value=round(sumOfVolumeinTonn, 1), delta=None)
-        st.sidebar.metric(label="Total Volume in Tonns",value=f"{round(sumOfVolume, 1)/1000:,.0f} TONNS",delta = round(sumOfVolumeinTonn_py,1))
+        st.sidebar.metric(
+            label="Total Volume in Tonns",
+            value=f"{round(sumOfVolume, 1)/1000:,.0f} TONNS",
+            delta = f"{round(((sumOfVolumeinTonn-sumOfVolumeinTonn_py)/sumOfVolumeinTonn_py)*100,0):,.0f} % "
+            )
 
         #st.dataframe(countrydata)
-        st.dataframe(df_table)
-        st.dataframe(df_chart)
+        with col1:
+            st.dataframe(df_table)
+        #st.dataframe(df_chart)
+        
         st.plotly_chart(fig)
+        
 
 if __name__ == "__main__":
-    data_path = r"D:\Dashboard\Steamlitworks\airExportVolumeDashboard\datasets\airExportVolume2023.csv"
+    data_path = r"datasets\airExportVolume2023.csv"
     dashboard = AirExportVolumeDashboard(data_path)
     
-    st.title("AIR 7 SEAS Air Export Volume Dashboard")
+    #st.title("AIR 7 SEAS Air Export Volume Dashboard")
     dashboard.render_dashboard()
+
+    
