@@ -8,6 +8,4 @@ matplotlib
 streamlit-option-menu
 numerize
 
-streamlit_extras.metric_cards
-time
 
