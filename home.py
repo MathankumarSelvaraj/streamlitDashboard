@@ -188,7 +188,7 @@ class AirExportVolumeDashboard:
         
 
 if __name__ == "__main__":
-    data_path = r"datasets\airExportVolume2023.csv"
+    data_path = "datasets\airExportVolume2023.csv"
     dashboard = AirExportVolumeDashboard(data_path)
     
 
