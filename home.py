@@ -104,7 +104,18 @@ class AirExportVolumeDashboard:
             df_table.insert(df_table.columns.get_loc(prev_year) + 1, f'{year} Monthly ▲ %', yoy_monthly_change[year])
         month_names_table = df_table.index.get_level_values('month').map(month_map)
         df_table.index = month_names_table
+        def _format_arrow(val):
+            return f"{'↑' if val > 0 else '↓'} {val:.0f}%" if val != 0 else f"{val:.0f}%"
 
+        def _color_arrow(val):
+            return "color: green" if val > 0 else "color: red" if val < 0 else "color: black"
+        styled_df = df_table.style.applymap(
+            _color_arrow, 
+            subset=["2022 Monthly ▲ %", "2023 Monthly ▲ %","2024 Monthly ▲ %"]
+            ).format(
+                _format_arrow, 
+                subset=["2022 Monthly ▲ %", "2023 Monthly ▲ %","2024 Monthly ▲ %"]
+                )
         #Monthly_Chart
         df_chart = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().reset_index("year")
         
@@ -130,7 +141,7 @@ class AirExportVolumeDashboard:
 
         
 
-        return df_table.fillna(0),df_chart
+        return styled_df,df_chart
 
     def create_visualization(self, df_chart):
         
@@ -161,7 +172,7 @@ class AirExportVolumeDashboard:
         df_table, df_chart = self.prepare_monthly_data(self.df)  # Avoid modifying original data
         fig = self.create_visualization(df_chart)
         
-        col1,col2=st.columns(2,gap="small")
+        #col1,col2=st.columns(2,gap="small")
         #with col1:
             #st.metric(label="Total Volume in Kgs", value=round(sumOfVolume, 1), delta=None)
             #st.info('Sum Investment',icon="💰")
@@ -180,8 +191,8 @@ class AirExportVolumeDashboard:
             )
 
         #st.dataframe(countrydata)
-        with col1:
-            st.dataframe(df_table)
+        
+        st.dataframe(df_table,use_container_width=True)
         #st.dataframe(df_chart)
         
         st.plotly_chart(fig)
