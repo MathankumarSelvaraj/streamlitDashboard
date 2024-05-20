@@ -4,6 +4,7 @@ import pandas as pd
 from streamlit_option_menu import option_menu
 from numerize.numerize import numerize
 import time
+import numpy as np
 #from streamlit_extras.metric_cards import style_metric_cards
 #st.set_option('deprecation.showPyplotGlobalUse', False)
 #import plotly.graph_objs as go
@@ -95,7 +96,7 @@ class AirExportVolumeDashboard:
         month_map = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
               7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}
         #Monthly table with Change
-        df_table = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().unstack()
+        df_table = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().unstack().apply(np.ceil)
         yoy_monthly_change = round((df_table / df_table.shift(1, axis=1) - 1) * 100,0)
         for i in range(1, len(yoy_monthly_change.columns)):  # Iterate through year difference columns (excluding the first)
             year = yoy_monthly_change.columns[i]
@@ -109,12 +110,14 @@ class AirExportVolumeDashboard:
 
         def _color_arrow(val):
             return "color: green" if val > 0 else "color: red" if val < 0 else "color: black"
-        styled_df = df_table.style.applymap(
+        def _round(val):
+            return(round(val,0))
+        styled_df = df_table.style.map(
             _color_arrow, 
             subset=["2022 Monthly ▲ %", "2023 Monthly ▲ %","2024 Monthly ▲ %"]
             ).format(
                 _format_arrow, 
-                subset=["2022 Monthly ▲ %", "2023 Monthly ▲ %","2024 Monthly ▲ %"]
+                subset=["2022 Monthly ▲ %", "2023 Monthly ▲ %","2024 Monthly ▲ %"],
                 )
         #Monthly_Chart
         df_chart = df.groupby([df['month'], df['year']])['Considerable Charging Unit'].sum().reset_index("year")
@@ -192,10 +195,10 @@ class AirExportVolumeDashboard:
 
         #st.dataframe(countrydata)
         
-        st.dataframe(df_table,use_container_width=True)
+        st.dataframe(df_table,use_container_width=True,height=460)
         #st.dataframe(df_chart)
         
-        st.plotly_chart(fig)
+        st.plotly_chart(fig,use_container_width=True,sharing= "streamlit",theme="streamlit")
         
 
 if __name__ == "__main__":
