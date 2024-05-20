@@ -1,8 +1,8 @@
 import streamlit as st # app lib
 import plotly.express as px #plots
 import pandas as pd #data manipulation
-import pygwalker as pyg #dataexploration
-from pygwalker.api.streamlit import StreamlitRenderer
+#import pygwalker as pyg #dataexploration
+#from pygwalker.api.streamlit import StreamlitRenderer
 #from home import df,df_table, prepare_monthly_data , main
 from home import AirExportVolumeDashboard
 #page setting
@@ -15,8 +15,12 @@ dashboard = AirExportVolumeDashboard(data_path)
 df = dashboard.df
 
 grouped_data = df.groupby('Carrier legalName').agg({'_id': 'count', 'Considerable Charging Unit': 'sum'}).reset_index()
-grouped_data.columns = ['Carrier legalName', 'Total Shipments', 'Volume']
 
-st.dataframe(grouped_data.iloc[::1])
+grouped_data.columns = ['Carrier legalName', 'Total Shipments', 'Volume In Kgs']
+
+#df_chart.index = month_names_chart
+
+st.dataframe(grouped_data,hide_index=True,height=2550)
+
 
 
