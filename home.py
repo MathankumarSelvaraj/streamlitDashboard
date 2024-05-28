@@ -14,6 +14,7 @@ from datetime import timedelta
 import plotly.graph_objects as go
 
 st.set_page_config(page_title="AIR 7 SEAS Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
+st.markdown("This visualization uses fabricated data for practice purposes ️. Don't mistake it for real information! ⚠️")
 st.header("Volume By Month")
 
 #Load CSS file
@@ -38,36 +39,36 @@ class AirExportVolumeDashboard:
 
         return df
 
-#     def setup_filters(self):
-#         distintYear = self.df['year'].unique()
-#         destinationCountry = self.df["Destination country"].unique()
-#         distintAirline = self.df["Carrier legalName"].unique()
+    #def setup_filters(self):
+        #distintYear = self.df['year'].unique()
+        # destinationCountry = self.df["Destination country"].unique()
+        #distintAirline = self.df["Carrier legalName"].unique()
 
-#         dtCountry = st.sidebar.multiselect(
-#             "Select the country:",
-#             options=destinationCountry
-#         )
-#         year = st.sidebar.selectbox(
-#             "select the year:",
-#             options=distintYear
-#         )
+        # dtCountry = st.sidebar.multiselect(
+        #     "Select the country:",
+        #     options=destinationCountry,default=default
+        # )
+        # year = st.selectbox(
+        #     "select the year:",
+        #     options=distintYear
+        # )
 
-#         airline = st.sidebar.multiselect(
-#             "Select the airline", 
-#             options = distintAirline,
-#             placeholder= "Choose an option"
-#             )
-#         return dtCountry, year,airline
+        # airline = st.multiselect(
+        #     "Select the airline", 
+        #     options = distintAirline,
+        #     placeholder= "Choose an option"
+        #     )
+        # return  year,airline
 
-#     def filter_data(self):
-#         # Check if any filter has selections
-#         if all(filter(None, setup_filters)):  # Check if all filters have values
-#             df_selection = self.df.query(f"Destination country == '{dtCountry}' & year == {year} & Carrier legalName == '{airline}'")
-#         else:
-#   # Handle the case where no filters are selected (optional)
-#             df_selection = self.df.copy()  # Use the original data
+    #def filter_data(self):
+        # Check if any filter has selections
+        #if all(filter(None, setup_filters)):  # Check if all filters have values
+        #df_selection = self.df.query(f" year == @year & Carrier legalName == @airline")
+        #else:
+  # Handle the case where no filters are selected (optional)
+           # df_selection = self.df.copy()  # Use the original data
 
-#         return df_selection
+        #return df_selection
 
     def calculate_metrics(self):
         
