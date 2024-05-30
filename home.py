@@ -13,7 +13,7 @@ import datetime
 from datetime import timedelta
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="AIR 7 SEAS Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
+st.set_page_config(page_title="Air Export Volume Dashboard", page_icon=":bar_chart:", layout="wide")
 st.markdown("This visualization uses fabricated data for practice purposes ️. Don't mistake it for real information! ⚠️")
 st.header("Volume By Month")
 
