@@ -8,7 +8,7 @@ from home import AirExportVolumeDashboard
 #page setting
 st.set_page_config(page_title="Volume By Carrier", page_icon=":bar_chart:", layout="wide")
 
-data_path = r"datasets\airExportVolume2023.csv"
+data_path = r"datasets/airExportVolume2023.csv"
 dashboard = AirExportVolumeDashboard(data_path)
 
 # Access the df variable
